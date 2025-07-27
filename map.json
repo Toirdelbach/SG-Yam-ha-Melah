@@ -1,0 +1,16 @@
+{
+  "data_format_version": 0,
+  "description": "",
+  "dimensions": [
+    480,
+    480
+  ],
+  "game_mode": "Melee",
+  "gameplay_level_name": "BasicStartingLevel",
+  "id": "18857810-45c1-a9bf-18c8-f59328ffa000",
+  "map_name": "Unititled Map",
+  "map_tags": [],
+  "tile_set_id": "TerrainTileset_YamhaMelah",
+  "version": "1.0.0",
+  "visibility": "hidden"
+}

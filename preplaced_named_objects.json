@@ -1,0 +1,8007 @@
+{
+  "01456F7C-4B8A-47DD-9B6E-589A281A01AA": {
+    "facing": 1729482283,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -163840,
+      1130496
+    ]
+  },
+  "0156EAFE-4803-11D0-3E37-25AA1750E3EE": {
+    "data": {
+      "seed": 16807
+    },
+    "facing": 1286314327,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2146304,
+      -2392064
+    ]
+  },
+  "02245608-4849-B891-5733-C0B3594C2BC5": {
+    "facing": 103205949,
+    "kind": "_locationMarkerPlayerStart19",
+    "player": 22,
+    "position": [
+      -3325952,
+      -786432
+    ]
+  },
+  "02284552-4D77-6ACF-122C-4E886E7AB8A9": {
+    "facing": 1474736082,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -2277376,
+      3522560
+    ]
+  },
+  "0235BEDC-4F31-0787-B78A-EEADC0134D84": {
+    "data": {
+      "seed": 8386
+    },
+    "facing": 1523299729,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      573440,
+      -3555328
+    ]
+  },
+  "02365980-4F82-B8B6-9558-F2A28A313E68": {
+    "data": {
+      "seed": 22290
+    },
+    "facing": 1872043783,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2785280,
+      983040
+    ]
+  },
+  "02CEBACF-4632-8D3D-15C5-3C9BA9567871": {
+    "data": {
+      "seed": 997
+    },
+    "facing": 1875140487,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2244608,
+      2392064
+    ]
+  },
+  "02ED2431-48C8-ABAD-EFB6-B29E99EEA149": {
+    "facing": 209115354,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -3325952,
+      557056
+    ]
+  },
+  "030226EB-48B5-67E1-6F95-A38BBC8F632F": {
+    "data": {
+      "seed": 4254
+    },
+    "facing": 286286328,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3407872,
+      966656
+    ]
+  },
+  "03042EE2-4343-CA07-1F8C-C2A77593C38A": {
+    "data": {
+      "seed": 4727
+    },
+    "facing": 343042340,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1851392,
+      1622016
+    ]
+  },
+  "030A5DCA-494B-1D82-26F3-42B0513DE4D1": {
+    "data": {
+      "seed": 22709
+    },
+    "facing": 16794111,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1277952,
+      1703936
+    ]
+  },
+  "0321B6C2-4F5D-F810-6A20-8397A7BF4828": {
+    "facing": 2081093657,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -327680,
+      3424256
+    ]
+  },
+  "03B83BF7-4036-B754-27AA-CD9A789C147A": {
+    "data": {
+      "seed": 8075
+    },
+    "facing": 1466674898,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2310144,
+      -2031616
+    ]
+  },
+  "0409F8F7-4A23-FCB6-DCA5-0EAA656D4073": {
+    "data": {
+      "seed": 17339
+    },
+    "facing": 1863884359,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2555904,
+      -131072
+    ]
+  },
+  "041D4108-4E0C-70D4-AA5E-09B2F6B25833": {
+    "data": {
+      "seed": 25790
+    },
+    "facing": 2087876865,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1015808,
+      3571712
+    ]
+  },
+  "041ED57B-4FD1-65E1-1046-2093578334A6": {
+    "data": {
+      "seed": 2372
+    },
+    "facing": 363522885,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1048576,
+      -606208
+    ]
+  },
+  "04896FF1-4EB5-5E99-78BD-9899D3A7A6A4": {
+    "data": {
+      "seed": 19696
+    },
+    "facing": 2139324160,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2539520,
+      2752512
+    ]
+  },
+  "048E6B12-4D91-C8D0-2A15-3EB76F8450D4": {
+    "data": {
+      "seed": 5065
+    },
+    "facing": 2105326337,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3538944,
+      -1900544
+    ]
+  },
+  "04907DAC-4EB1-D172-15FA-E780EA99AC65": {
+    "data": {
+      "seed": 25790
+    },
+    "facing": 1014135011,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1064960,
+      -3457024
+    ]
+  },
+  "04FF1412-43BC-3A4E-4AD8-6482621CE441": {
+    "facing": 432845683,
+    "kind": "_locationMarkerPlayerStart12",
+    "player": 15,
+    "position": [
+      786432,
+      -3325952
+    ]
+  },
+  "06332BAB-414C-EAB0-F596-8189298AB9BD": {
+    "data": {
+      "seed": 19211
+    },
+    "facing": 1492988434,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1064960,
+      2473984
+    ]
+  },
+  "064051B9-4C12-6D54-8B16-15A29D3ABB78": {
+    "data": {
+      "seed": 5572
+    },
+    "facing": 1177996410,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3506176,
+      917504
+    ]
+  },
+  "064DD490-49FF-C936-D4C7-B6977B9074B7": {
+    "data": {
+      "seed": 31110
+    },
+    "facing": 1300994839,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -1376256,
+      -1064960
+    ]
+  },
+  "06798778-41C0-90A8-FFEC-41BBFE9050EE": {
+    "data": {
+      "seed": 22974
+    },
+    "facing": 801775465,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3457024,
+      -2572288
+    ]
+  },
+  "06FC7D32-4AB8-8C08-0BB6-85815C8E7DE5": {
+    "facing": 1212928186,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      3407872,
+      -2818048
+    ]
+  },
+  "075428BF-4EE0-A076-E1FB-0B8733F90102": {
+    "data": {
+      "seed": 18785
+    },
+    "facing": 494140122,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -1900544,
+      -2228224
+    ]
+  },
+  "07C16AFE-40F5-2F01-01B5-E58EB58E5370": {
+    "data": {
+      "seed": 4252
+    },
+    "facing": 282763704,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      2228224,
+      -1900544
+    ]
+  },
+  "08138356-44C1-555E-4EE7-B897D7AEB4E8": {
+    "facing": 1655604557,
+    "kind": "ShadowCleft",
+    "player": 31,
+    "position": [
+      -1015808,
+      -1048576
+    ]
+  },
+  "087F0B94-45EA-F608-A98A-C78B47AA3384": {
+    "data": {
+      "seed": 13972
+    },
+    "facing": 2100705921,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2392064,
+      2244608
+    ]
+  },
+  "089C3F9D-470A-6E8B-1226-79B1B4CF9DBC": {
+    "facing": 1953065221,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      1818624,
+      -3473408
+    ]
+  },
+  "09AA30E3-4522-A185-E860-39B17C343867": {
+    "facing": 2126183798,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      2260992,
+      3473408
+    ]
+  },
+  "0A459291-4AFB-4D3B-6295-F28673959402": {
+    "data": {
+      "seed": 25971
+    },
+    "facing": 1815451785,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1785856,
+      -344064
+    ]
+  },
+  "0A517E40-424C-322D-2674-A5B4EE732412": {
+    "facing": 451982835,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      327680,
+      -3424256
+    ]
+  },
+  "0A94C1CE-472A-341E-4188-FBA44EE862F3": {
+    "data": {
+      "seed": 13151
+    },
+    "facing": 1100727133,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3571712,
+      -1015808
+    ]
+  },
+  "0AB0FC4E-4D8B-81ED-7809-EA8BC6FB05E8": {
+    "data": {
+      "seed": 17717
+    },
+    "facing": 2090367233,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      917504,
+      3506176
+    ]
+  },
+  "0B83AC16-47A1-B73F-43DA-54AD6762AA0D": {
+    "facing": 1247188185,
+    "kind": "_locationMarkerPlayerStart1",
+    "player": 5,
+    "position": [
+      1376256,
+      2015232
+    ]
+  },
+  "0BC13D40-422A-C7A4-5769-7C82000CAADD": {
+    "data": {
+      "seed": 25566
+    },
+    "facing": 408006836,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2637824,
+      3473408
+    ]
+  },
+  "0D302C7D-43B7-AF11-72A9-379163FD1C69": {
+    "facing": 387427893,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -2949120,
+      -3244032
+    ]
+  },
+  "0D46BDD1-46B5-DE81-45A4-959E701E4AEE": {
+    "data": {
+      "seed": 21322
+    },
+    "facing": 1075576861,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      671744,
+      1130496
+    ]
+  },
+  "0D4D6AA4-4C1E-03A4-5F5C-9982555C046D": {
+    "data": {
+      "seed": 21322
+    },
+    "facing": 1612447758,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1048576,
+      606208
+    ]
+  },
+  "0E2C249C-461F-43B6-0FAE-C3810345885B": {
+    "data": {
+      "seed": 13972
+    },
+    "facing": 1563835024,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2129920,
+      2473984
+    ]
+  },
+  "0E9C4AC4-4143-7E77-DF68-DBB4427627D8": {
+    "data": {
+      "seed": 15566
+    },
+    "facing": 715724140,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -1900544,
+      -2293760
+    ]
+  },
+  "0ED6869B-43DD-7A8C-DC9A-AB852145B60A": {
+    "data": {
+      "seed": 23389
+    },
+    "facing": 1849236616,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1196032,
+      1736704
+    ]
+  },
+  "0EFAF0F9-4A70-4DE0-6C3E-C18BFD29A7F3": {
+    "facing": 2100771457,
+    "kind": "_locationMarkerPlayerStart8",
+    "player": 12,
+    "position": [
+      2015232,
+      -1376256
+    ]
+  },
+  "0F50190D-4A8D-5F48-9563-7784C50B4557": {
+    "data": {
+      "seed": 11001
+    },
+    "facing": 805937129,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1982464,
+      2179072
+    ]
+  },
+  "1015F6E2-4FD1-9D52-B7AD-34A6F2539DCF": {
+    "facing": 66537470,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      2097152,
+      1523712
+    ]
+  },
+  "1078305A-405E-3495-0019-FEB1108E72AA": {
+    "data": {
+      "seed": 25682
+    },
+    "facing": 1392977428,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2555904,
+      2818048
+    ]
+  },
+  "10B08937-4A51-5F63-674F-B69D1402410C": {
+    "data": {
+      "seed": 7538
+    },
+    "facing": 1220956569,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1949696,
+      -2129920
+    ]
+  },
+  "10C757F3-49A4-BA04-8319-BDA0E0666EAD": {
+    "data": {
+      "seed": 21685
+    },
+    "facing": 690033260,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1933312,
+      -2179072
+    ]
+  },
+  "10DB473F-4EAC-4252-35BC-AEA47A2096B7": {
+    "facing": 1145178267,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -81920,
+      -1736704
+    ]
+  },
+  "120BD462-4462-1462-4831-0792A1A77B33": {
+    "data": {
+      "seed": 15500
+    },
+    "facing": 1625539022,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2588672,
+      -3506176
+    ]
+  },
+  "1247219E-468E-63F7-1186-8F96DFDF9064": {
+    "data": {
+      "seed": 8933
+    },
+    "facing": 413397308,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2293760,
+      212992
+    ]
+  },
+  "126FE013-455E-024F-FECF-BF8881E80B4B": {
+    "data": {
+      "seed": 13633
+    },
+    "facing": 1664763533,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      196608,
+      1425408
+    ]
+  },
+  "129E1CA8-4CAF-C838-49FB-2793E74044FF": {
+    "facing": 1246336153,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -196608,
+      1736704
+    ]
+  },
+  "12C0160E-43BC-3F6B-089F-E5A6D363A99F": {
+    "facing": 1103168413,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -2260992,
+      -3473408
+    ]
+  },
+  "12D774E5-4BA0-AD78-820D-E9B089CC7C87": {
+    "data": {
+      "seed": 10151
+    },
+    "facing": 1534834449,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2244608,
+      -2392064
+    ]
+  },
+  "139EDA0F-43BA-601D-944D-97ACDAADD0AB": {
+    "data": {
+      "seed": 6470
+    },
+    "facing": 2128297344,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2031616,
+      2146304
+    ]
+  },
+  "13FA7F99-4E26-61C6-659A-25970F5671BC": {
+    "data": {
+      "seed": 12707
+    },
+    "facing": 1128498844,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      180224,
+      -2572288
+    ]
+  },
+  "13FD675D-40C2-7210-DA5B-2CA84AE18B79": {
+    "facing": 587777551,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      786432,
+      -3473408
+    ]
+  },
+  "145A49B1-4DEB-D3A4-B88B-D7900699A95B": {
+    "data": {
+      "seed": 12009
+    },
+    "facing": 746428651,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2277376,
+      311296
+    ]
+  },
+  "157BA7B7-4FAD-F295-4696-43B5DC49150E": {
+    "data": {
+      "seed": 12133
+    },
+    "facing": 1855429960,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1556480,
+      442368
+    ]
+  },
+  "15BFCA79-4ABF-9F96-6CAE-B8BBD59813EE": {
+    "facing": 491403890,
+    "kind": "ShadowCleft",
+    "player": 31,
+    "position": [
+      -1048576,
+      1015808
+    ]
+  },
+  "1709CC3D-4B93-D036-DF09-E5B3B5991375": {
+    "data": {
+      "seed": 21740
+    },
+    "facing": 173741179,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1966080,
+      -3522560
+    ]
+  },
+  "1758EA53-461E-591D-ECC4-088D0FB98FD5": {
+    "facing": 434893771,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -3309568,
+      -1687552
+    ]
+  },
+  "176D6AA6-41B3-F495-4E4A-8C97EF94204C": {
+    "data": {
+      "seed": 7433
+    },
+    "facing": 113102204,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3555328,
+      573440
+    ]
+  },
+  "17C9EB30-4B1E-782D-B440-078517966FA5": {
+    "data": {
+      "seed": 2876
+    },
+    "facing": 206854264,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2555904,
+      1081344
+    ]
+  },
+  "180ADE2C-44E5-809E-77F4-268C0495F5B4": {
+    "data": {
+      "seed": 20596
+    },
+    "facing": 1963469317,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2818048,
+      2555904
+    ]
+  },
+  "187FE6F4-4933-1B2E-0CFE-5BB32C0041D1": {
+    "facing": 657608301,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      2949120,
+      3244032
+    ]
+  },
+  "18D5FE63-4FB4-3915-2438-53A7D4A818D9": {
+    "data": {
+      "seed": 4509
+    },
+    "facing": 1353326998,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -65536,
+      2572288
+    ]
+  },
+  "19247905-45E2-F091-21B6-F38185A5BCF4": {
+    "facing": 170071163,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -917504,
+      3325952
+    ]
+  },
+  "19395CDE-4713-3BFB-06A9-AC9CB7006C93": {
+    "data": {
+      "seed": 11922
+    },
+    "facing": 677892269,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2015232,
+      2768896
+    ]
+  },
+  "197F1E7E-466F-9E94-A24B-BCA1E5F3ED5F": {
+    "data": {
+      "seed": 6008
+    },
+    "facing": 1572338560,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1474560,
+      212992
+    ]
+  },
+  "19A26A6C-4726-B4B5-8AC8-B5B89D4303E2": {
+    "data": {
+      "seed": 12834
+    },
+    "facing": 796647145,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1900544,
+      3538944
+    ]
+  },
+  "19E038AC-408D-E171-D43F-7597EF829746": {
+    "data": {
+      "seed": 5065
+    },
+    "facing": 494713586,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1982464,
+      3588096
+    ]
+  },
+  "1AA8A3B3-4808-24C5-E0AE-65B916D6865E": {
+    "facing": 991082020,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      3407872,
+      -1146880
+    ]
+  },
+  "1B050BD0-4A9B-4BDA-81B1-80B50935EA55": {
+    "data": {
+      "seed": 11001
+    },
+    "facing": 269066232,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2195456,
+      2031616
+    ]
+  },
+  "1B168FD7-4FAC-AF6E-EA22-A3BC1D9F1258": {
+    "facing": 1394107924,
+    "kind": "RitualChamber",
+    "player": 31,
+    "position": [
+      2211840,
+      -2195456
+    ]
+  },
+  "1B35DD3E-4BC5-7023-2BC8-2690A569A834": {
+    "data": {
+      "seed": 26189
+    },
+    "facing": 1675921357,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      1064960,
+      -1376256
+    ]
+  },
+  "1B7FFB1F-49B3-EE2B-E0E6-B38F211A5140": {
+    "data": {
+      "seed": 25566
+    },
+    "facing": 944877733,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3555328,
+      -2572288
+    ]
+  },
+  "1C2069BC-4F2F-1336-5A44-C098A7DD12E9": {
+    "facing": 678564077,
+    "kind": "_locationMarkerPlayerStart21",
+    "player": 23,
+    "position": [
+      -3325952,
+      688128
+    ]
+  },
+  "1C6D691D-49B6-A22C-81CE-EBB741FBDDE7": {
+    "data": {
+      "seed": 15278
+    },
+    "facing": 108432636,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      163840,
+      2572288
+    ]
+  },
+  "1DE63B9B-4D65-13BF-BD27-47BF741472FB": {
+    "data": {
+      "seed": 11341
+    },
+    "facing": 666160973,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -180224,
+      2572288
+    ]
+  },
+  "1DF3D45C-4DEE-DAA9-841E-6582DE2E1B15": {
+    "data": {
+      "seed": 14619
+    },
+    "facing": 1434479379,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1736704,
+      -1245184
+    ]
+  },
+  "1F3143DF-4C10-E8A9-5650-B58B345AF1C0": {
+    "data": {
+      "seed": 28402
+    },
+    "facing": 1454910867,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      917504,
+      2752512
+    ]
+  },
+  "1F4B82DA-44F2-9220-53EA-88A853CB96BE": {
+    "facing": 404811828,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -3522560,
+      -2277376
+    ]
+  },
+  "1FC55E14-4D7E-7FD9-6127-AFB65CF74519": {
+    "data": {
+      "seed": 4727
+    },
+    "facing": 1595588285,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1622016,
+      -1851392
+    ]
+  },
+  "1FE5477C-4A47-B9AA-262E-98960B9CBE5A": {
+    "data": {
+      "seed": 18841
+    },
+    "facing": 1669809933,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1966080,
+      2883584
+    ]
+  },
+  "1FF00B04-4452-CB54-3B43-3EA7DCAF7B2E": {
+    "data": {
+      "seed": 28397
+    },
+    "facing": 1360339477,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2555904,
+      3555328
+    ]
+  },
+  "2078E1D0-4D93-3552-0B17-AFBF55F5DCAC": {
+    "data": {
+      "seed": 2833
+    },
+    "facing": 877045863,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3440640,
+      393216
+    ]
+  },
+  "208464CE-49CF-25E8-4791-9AA508FB9420": {
+    "data": {
+      "seed": 15934
+    },
+    "facing": 1840847752,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1769472,
+      1196032
+    ]
+  },
+  "20A97986-4751-136A-DFA4-489AA1C633E6": {
+    "data": {
+      "seed": 11922
+    },
+    "facing": 1214763225,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2818048,
+      -1998848
+    ]
+  },
+  "20DC20A2-4A5A-3A07-F8F5-9887B891D6AE": {
+    "data": {
+      "seed": 22241
+    },
+    "facing": 200857594,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2031616,
+      -2310144
+    ]
+  },
+  "216797B0-4D71-8BAA-D919-F59C03D068A5": {
+    "facing": 1162267291,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      1261568,
+      311296
+    ]
+  },
+  "2187B7BC-4315-4B08-A80A-90B01BF2C2A7": {
+    "data": {
+      "seed": 26328
+    },
+    "facing": 1654113613,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -229376,
+      -2293760
+    ]
+  },
+  "21B89BCE-4C47-FDF7-12E9-7FBCD502F06D": {
+    "data": {
+      "seed": 29252
+    },
+    "facing": 478787826,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1081344,
+      2392064
+    ]
+  },
+  "230BF0E7-467F-F468-D05D-75BAE0BBFA1E": {
+    "data": {
+      "seed": 10151
+    },
+    "facing": 997963492,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2473984,
+      2195456
+    ]
+  },
+  "233A87C8-44A4-48C8-F571-84AC3C6624A4": {
+    "data": {
+      "seed": 18532
+    },
+    "facing": 582124911,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3522560,
+      -1015808
+    ]
+  },
+  "2401CF1B-4A9A-F1FD-989B-4BB4D904CE41": {
+    "facing": 161944443,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      950272,
+      1851392
+    ]
+  },
+  "2474E2B1-4448-5746-0DD8-7184C4702C31": {
+    "data": {
+      "seed": 16765
+    },
+    "facing": 528154343,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3457024,
+      -983040
+    ]
+  },
+  "25CA53FE-4949-0A9B-126A-9EA0E19A46B2": {
+    "data": {
+      "seed": 12462
+    },
+    "facing": 432943987,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -163840,
+      -2277376
+    ]
+  },
+  "25F604E7-4212-FC6C-7430-E5A69EE0902E": {
+    "data": {
+      "seed": 24880
+    },
+    "facing": 362097397,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -2162688,
+      1900544
+    ]
+  },
+  "263C4BB1-45C6-704B-B646-349600B1133D": {
+    "data": {
+      "seed": 23895
+    },
+    "facing": 1708559308,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2785280,
+      1966080
+    ]
+  },
+  "265FADFB-45FD-B2E6-7D36-0FBA00D1ACA2": {
+    "data": {
+      "seed": 20935
+    },
+    "facing": 1325669910,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -507904,
+      2703360
+    ]
+  },
+  "26C8B9AE-489A-2885-D99D-58A16B0C5416": {
+    "data": {
+      "seed": 23206
+    },
+    "facing": 1616691406,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1753088,
+      -1327104
+    ]
+  },
+  "26DCA101-401A-191E-D7D6-0CA1DAA6C1AE": {
+    "data": {
+      "seed": 15500
+    },
+    "facing": 551797168,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2555904,
+      3620864
+    ]
+  },
+  "27048346-4CC4-836D-9FC0-01A11681DAF0": {
+    "data": {
+      "seed": 6094
+    },
+    "facing": 524631665,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2179072,
+      -1933312
+    ]
+  },
+  "272F9A30-4206-1726-4EA5-1DA29BA5660E": {
+    "facing": 1345937558,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -1687552,
+      -983040
+    ]
+  },
+  "27313D49-4D7F-D044-0592-FC9A7AB2F558": {
+    "data": {
+      "seed": 5432
+    },
+    "facing": 1765741194,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2293760,
+      -212992
+    ]
+  },
+  "274773E9-493A-D009-9836-FC8D2B58984D": {
+    "facing": 598116143,
+    "kind": "RitualChamber",
+    "player": 31,
+    "position": [
+      -2211840,
+      2195456
+    ]
+  },
+  "27C52AED-4856-8D87-A87F-BCA7CF560496": {
+    "data": {
+      "seed": 11930
+    },
+    "facing": 890202599,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      212992,
+      -2293760
+    ]
+  },
+  "2851D9CC-4288-EDE2-E632-B3A952A2DA74": {
+    "data": {
+      "seed": 31150
+    },
+    "facing": 2016718979,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      1097728,
+      -1425408
+    ]
+  },
+  "2874F70D-478B-E82F-8FFD-34B8C85C2A29": {
+    "data": {
+      "seed": 24155
+    },
+    "facing": 1292491319,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1507328,
+      -442368
+    ]
+  },
+  "28761816-4F9E-4A8D-C4C0-D8ABDB35632D": {
+    "facing": 0,
+    "kind": "LesserShrine",
+    "player": 31,
+    "position": [
+      65536,
+      -622592
+    ]
+  },
+  "28CFF147-457E-8A68-5D74-EFADD5D2D0FF": {
+    "data": {
+      "seed": 225
+    },
+    "facing": 1842043784,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1753088,
+      1327104
+    ]
+  },
+  "28D49EB9-42C8-1048-DC66-45B43C17A895": {
+    "data": {
+      "seed": 8933
+    },
+    "facing": 2024010059,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      344064,
+      -2408448
+    ]
+  },
+  "28D57B8A-42A9-1302-6A54-58B9D6633829": {
+    "data": {
+      "seed": 7101
+    },
+    "facing": 1994452420,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2277376,
+      -2015232
+    ]
+  },
+  "28EDA5C4-4007-EC57-9375-BC9C9EFEB9A0": {
+    "facing": 2006445875,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      1277952,
+      3227648
+    ]
+  },
+  "2922DF6A-4198-2D92-EB98-35B17CDE3CED": {
+    "data": {
+      "seed": 23643
+    },
+    "facing": 267411448,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2473984,
+      2129920
+    ]
+  },
+  "2957B493-408F-01B2-E299-F0942491632B": {
+    "data": {
+      "seed": 10809
+    },
+    "facing": 1162267291,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2555904,
+      294912
+    ]
+  },
+  "298064A1-485C-9139-3897-DB9919968B21": {
+    "data": {
+      "seed": 2506
+    },
+    "facing": 1352982886,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2342912,
+      311296
+    ]
+  },
+  "298BF70A-4A79-FC4F-B99B-C9B2E00F8DED": {
+    "data": {
+      "seed": 8962
+    },
+    "facing": 256089720,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1998848,
+      2818048
+    ]
+  },
+  "2A600AEF-41A3-A359-319B-87A637A0CFC3": {
+    "data": {
+      "seed": 11312
+    },
+    "facing": 325510854,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1277952,
+      -1703936
+    ]
+  },
+  "2A6033FF-47C9-FE05-85A2-FF820A05ACF8": {
+    "data": {
+      "seed": 495
+    },
+    "facing": 759159402,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2588672,
+      2867200
+    ]
+  },
+  "2AAEA627-4108-3D49-621E-9D8E6562F70B": {
+    "data": {
+      "seed": 25052
+    },
+    "facing": 414298484,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1245184,
+      1736704
+    ]
+  },
+  "2B114575-405D-4AF1-61FB-0EAB86ACD3AC": {
+    "data": {
+      "seed": 22881
+    },
+    "facing": 1103758237,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      2310144,
+      -1933312
+    ]
+  },
+  "2B6123BB-4DFF-9628-ABDD-809277C521BF": {
+    "data": {
+      "seed": 3205
+    },
+    "facing": 205789306,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -311296,
+      -2342912
+    ]
+  },
+  "2C8B36D4-416F-5A7C-3A5A-558037910C27": {
+    "data": {
+      "seed": 28007
+    },
+    "facing": 669749165,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2441216,
+      2228224
+    ]
+  },
+  "2C9375AA-4FD5-08D0-C0A9-2DA33070472E": {
+    "facing": 1297537719,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      3522560,
+      2277376
+    ]
+  },
+  "2CA969E1-4739-4CEF-65D2-B08A8A42E660": {
+    "data": {
+      "seed": 24052
+    },
+    "facing": 227072793,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1769472,
+      -1196032
+    ]
+  },
+  "2CDDAA33-4006-9037-EF9F-918320541123": {
+    "data": {
+      "seed": 13579
+    },
+    "facing": 1068334946,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1998848,
+      -2818048
+    ]
+  },
+  "2DF406C5-43D1-8C76-0812-178844216011": {
+    "data": {
+      "seed": 28255
+    },
+    "facing": 1987112164,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1064960,
+      -3522560
+    ]
+  },
+  "2E7625E3-4123-3639-7008-F98403458A0F": {
+    "data": {
+      "seed": 9839
+    },
+    "facing": 899148566,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1982464,
+      3473408
+    ]
+  },
+  "2F19395E-4E03-D17B-6D80-A5BAFD03BCC2": {
+    "facing": 1440033683,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      1523712,
+      -2097152
+    ]
+  },
+  "2F925EFE-4221-EA69-5847-05A15993FD1E": {
+    "facing": 1774932874,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      851968,
+      -1835008
+    ]
+  },
+  "30661FD9-46BD-7095-4E86-F49D13A2A363": {
+    "data": {
+      "seed": 23213
+    },
+    "facing": 712758508,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      1458176,
+      1261568
+    ]
+  },
+  "307C476D-4FE4-0FFF-43E8-84A0B6195C38": {
+    "data": {
+      "seed": 11698
+    },
+    "facing": 863463143,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -1458176,
+      -1179648
+    ]
+  },
+  "308A81EE-4CEB-7160-741A-3BB0A6B7DD52": {
+    "facing": 1634779886,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -311296,
+      1261568
+    ]
+  },
+  "30BC27F6-421E-224B-6C1F-D892C8A45F0F": {
+    "data": {
+      "seed": 16038
+    },
+    "facing": 264413048,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1720320,
+      1228800
+    ]
+  },
+  "31138E8D-422B-C8B8-FD1B-E6A69C95E9E2": {
+    "data": {
+      "seed": 13151
+    },
+    "facing": 26985279,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3457024,
+      1064960
+    ]
+  },
+  "3120EFC0-4034-1184-0B71-B7834D585D84": {
+    "data": {
+      "seed": 25682
+    },
+    "facing": 319235575,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1900544,
+      -3506176
+    ]
+  },
+  "3153F182-46CB-4107-5BB5-929B67AA37D6": {
+    "facing": 524287601,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -2015232,
+      1228800
+    ]
+  },
+  "31A05EA3-4372-C02B-0D25-60BA86DA652F": {
+    "facing": 202266618,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      3260416,
+      196608
+    ]
+  },
+  "33699213-4C6A-9A77-3A86-A9A71EA4292B": {
+    "data": {
+      "seed": 10123
+    },
+    "facing": 1692076428,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2850816,
+      -1933312
+    ]
+  },
+  "3473A397-4B7B-3885-0261-7C90E37C3199": {
+    "data": {
+      "seed": 30640
+    },
+    "facing": 231234425,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2031616,
+      2310144
+    ]
+  },
+  "34770D8E-4D49-33D7-1DCE-BE880F316537": {
+    "data": {
+      "seed": 1514
+    },
+    "facing": 1953851653,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2228224,
+      2031616
+    ]
+  },
+  "34DBD7DC-4284-12C1-1357-1AB298B7519B": {
+    "data": {
+      "seed": 23306
+    },
+    "facing": 1430563475,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1294336,
+      -1703936
+    ]
+  },
+  "34E609BE-446C-DDC3-44E4-E585477D4675": {
+    "data": {
+      "seed": 1036
+    },
+    "facing": 362031861,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -344064,
+      -1933312
+    ]
+  },
+  "35373374-4978-5491-07EA-FF93FFB2A10B": {
+    "data": {
+      "seed": 24572
+    },
+    "facing": 2001268372,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1703936,
+      -1277952
+    ]
+  },
+  "35729997-461D-9A83-9D0C-3094D6E30F97": {
+    "data": {
+      "seed": 18841
+    },
+    "facing": 59197182,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3522560,
+      -1966080
+    ]
+  },
+  "362EAB41-49D0-67FE-DF23-6097D0F94BEB": {
+    "data": {
+      "seed": 4727
+    },
+    "facing": 1235817415,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1622016,
+      1851392
+    ]
+  },
+  "365416B6-4B29-746C-8FFE-27A513235C66": {
+    "facing": 1014135011,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -983040,
+      1687552
+    ]
+  },
+  "365D3508-4ED9-23CB-3431-87AF5F95D654": {
+    "data": {
+      "seed": 25971
+    },
+    "facing": 1278580888,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -327680,
+      -1867776
+    ]
+  },
+  "3685E52B-462A-2EAE-D03A-F18AC31D0A02": {
+    "data": {
+      "seed": 1262
+    },
+    "facing": 332621686,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1556480,
+      -442368
+    ]
+  },
+  "370D2340-4633-9712-584D-19B25D4AB55E": {
+    "data": {
+      "seed": 21260
+    },
+    "facing": 1301732151,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3538944,
+      1900544
+    ]
+  },
+  "37618DF7-4B0F-6824-1409-3B9E7A4A256D": {
+    "data": {
+      "seed": 12217
+    },
+    "facing": 1884938423,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1081344,
+      -2392064
+    ]
+  },
+  "3818F26C-4C8A-BC63-CB04-FEB319F367A5": {
+    "data": {
+      "seed": 25972
+    },
+    "facing": 940601317,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -2293760,
+      1900544
+    ]
+  },
+  "39138BF8-4493-AF51-B8ED-B18859FE86B4": {
+    "data": {
+      "seed": 17222
+    },
+    "facing": 917826902,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      606208,
+      1048576
+    ]
+  },
+  "39FA0275-41A5-4BE4-3A4D-399D8EB39C10": {
+    "data": {
+      "seed": 32002
+    },
+    "facing": 256515704,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      442368,
+      -1507328
+    ]
+  },
+  "3A366F53-4382-50C1-B176-78B5767878F5": {
+    "data": {
+      "seed": 9713
+    },
+    "facing": 131632990,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1064960,
+      2490368
+    ]
+  },
+  "3A84429A-40EC-72AB-5282-158E08E52F14": {
+    "facing": 522747505,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      3473408,
+      786432
+    ]
+  },
+  "3AEE0DB0-4032-7D63-5E6C-4786F04CF90D": {
+    "data": {
+      "seed": 32667
+    },
+    "facing": 710956268,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      65536,
+      -2572288
+    ]
+  },
+  "3AFB6D54-441A-61A4-A2B5-4FAC27A3E717": {
+    "data": {
+      "seed": 11001
+    },
+    "facing": 1879678983,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2031616,
+      -2146304
+    ]
+  },
+  "3B0B83DA-4FFD-4DB8-BB22-9AAECE4862A3": {
+    "data": {
+      "seed": 8386
+    },
+    "facing": 2060170626,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3440640,
+      524288
+    ]
+  },
+  "3B156053-4D32-90D2-ECD2-178C07D1B5CA": {
+    "facing": 1708133260,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      1736704,
+      -81920
+    ]
+  },
+  "3B48D7A0-4796-870C-1AFC-C9A0EA2954F5": {
+    "data": {
+      "seed": 23623
+    },
+    "facing": 1788597577,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      507904,
+      -2703360
+    ]
+  },
+  "3BA8DB98-4DC5-7918-726F-F38E15799EA5": {
+    "data": {
+      "seed": 13342
+    },
+    "facing": 48285118,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2736128,
+      507904
+    ]
+  },
+  "3BF8FBE7-468D-02D9-D8CE-33B99DA977CD": {
+    "data": {
+      "seed": 16807
+    },
+    "facing": 1823185225,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2441216,
+      -2228224
+    ]
+  },
+  "3C811CAE-4787-EA8D-B8A3-B89939F9C1F8": {
+    "facing": 263380824,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -2097152,
+      -1523712
+    ]
+  },
+  "3C9FA10A-48BA-00FB-9D1B-D49677B93CBB": {
+    "data": {
+      "seed": 24924
+    },
+    "facing": 375680245,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2867200,
+      2588672
+    ]
+  },
+  "3CA2FB11-476A-3464-4467-EA8EC4F1AC45": {
+    "data": {
+      "seed": 420
+    },
+    "facing": 1450323219,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      983040,
+      2785280
+    ]
+  },
+  "3CAE8DA4-4F3F-57E5-201E-1C874D47CB16": {
+    "data": {
+      "seed": 15143
+    },
+    "facing": 1223954969,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2588672,
+      3506176
+    ]
+  },
+  "3CC98E3B-4A45-C256-0771-768B78B5DC3F": {
+    "data": {
+      "seed": 4715
+    },
+    "facing": 301917175,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1458176,
+      393216
+    ]
+  },
+  "3CDA952B-43AC-35CC-CF48-E3ACC6050FC9": {
+    "data": {
+      "seed": 18880
+    },
+    "facing": 195614554,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2392064,
+      -2244608
+    ]
+  },
+  "3DAC2B5B-4EA1-8A73-D088-17A6F34D0560": {
+    "facing": 450672051,
+    "kind": "_locationMarkerPlayerStart13",
+    "player": 20,
+    "position": [
+      65536,
+      -1736704
+    ]
+  },
+  "3DC386F4-4F31-C6A8-FD80-D6B9F6EDA3B0": {
+    "data": {
+      "seed": 17195
+    },
+    "facing": 82741693,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      344064,
+      1933312
+    ]
+  },
+  "3E336EE9-430D-F782-736D-BAB61FA31571": {
+    "data": {
+      "seed": 2566
+    },
+    "facing": 708858988,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1097728,
+      -2506752
+    ]
+  },
+  "3E6FF41A-401D-DA97-D252-8ABFA1C89C7B": {
+    "data": {
+      "seed": 31890
+    },
+    "facing": 2122251518,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      507904,
+      -3538944
+    ]
+  },
+  "3EB792AB-46D1-BD69-AE23-B6ADDB11E6E1": {
+    "data": {
+      "seed": 24628
+    },
+    "facing": 1644217358,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1982464,
+      -3588096
+    ]
+  },
+  "3F1AB736-40B2-0544-04C3-E5B103B1EC8F": {
+    "data": {
+      "seed": 9021
+    },
+    "facing": 443020483,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1327104,
+      -1753088
+    ]
+  },
+  "3F27E45B-450E-7381-5CAE-59846E27F724": {
+    "data": {
+      "seed": 26581
+    },
+    "facing": 1592114639,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      16384,
+      -2260992
+    ]
+  },
+  "3F507042-4D81-8A9C-8AE0-D9A45D412139": {
+    "data": {
+      "seed": 26248
+    },
+    "facing": 1403807636,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2801664,
+      491520
+    ]
+  },
+  "3FC1DEC1-4AE1-73E4-190F-BD90B1E30659": {
+    "data": {
+      "seed": 13342
+    },
+    "facing": 1122026972,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3538944,
+      -507904
+    ]
+  },
+  "3FDFDE3A-4860-1DE0-BA1E-879C36C43ED7": {
+    "data": {
+      "seed": 26248
+    },
+    "facing": 1940678533,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -507904,
+      3538944
+    ]
+  },
+  "412E5BD7-4DDB-45D1-8AC1-528C4675476F": {
+    "data": {
+      "seed": 32493
+    },
+    "facing": 118361596,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      524288,
+      -3440640
+    ]
+  },
+  "4220E91E-4C28-1837-2833-C49EBAA51A3F": {
+    "data": {
+      "seed": 13579
+    },
+    "facing": 1605205903,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2883584,
+      1966080
+    ]
+  },
+  "422CCDD4-40A9-DBD4-80E0-4088A25E02F9": {
+    "data": {
+      "seed": 9713
+    },
+    "facing": 1503785779,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2490368,
+      1064960
+    ]
+  },
+  "42487A3F-40A2-6906-90D7-D99B8D352D54": {
+    "data": {
+      "seed": 16795
+    },
+    "facing": 950153573,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1081344,
+      -655360
+    ]
+  },
+  "42B4F85C-46AB-7CA6-CCA2-04B77110D48D": {
+    "data": {
+      "seed": 28385
+    },
+    "facing": 168367099,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1064960,
+      -2473984
+    ]
+  },
+  "42FF7B23-4814-E647-4A71-528FA4D7FEFB": {
+    "data": {
+      "seed": 14804
+    },
+    "facing": 1822775689,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1064960,
+      3457024
+    ]
+  },
+  "4396712F-4A09-F199-FFF3-28A645DAE75D": {
+    "data": {
+      "seed": 24218
+    },
+    "facing": 1051082082,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3391488,
+      -360448
+    ]
+  },
+  "43EE72CB-4A45-10EA-48A5-1B9F9DC88416": {
+    "data": {
+      "seed": 225
+    },
+    "facing": 1305172887,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1228800,
+      -1720320
+    ]
+  },
+  "43F805BD-4903-A491-6F3E-E3BDE94428ED": {
+    "facing": 1961486805,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      819200,
+      2015232
+    ]
+  },
+  "4450CF3D-47DA-DD93-4C49-70903B780758": {
+    "facing": 959328869,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -3260416,
+      -196608
+    ]
+  },
+  "44C1609A-440E-4D30-DCA4-52B433A1805D": {
+    "facing": 1059077730,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -3473408,
+      2260992
+    ]
+  },
+  "44C67156-4FC4-623D-2C2E-75A9E40E55E9": {
+    "data": {
+      "seed": 4182
+    },
+    "facing": 1790416265,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3522560,
+      -2605056
+    ]
+  },
+  "44D36FA9-4C47-480C-DBDE-3885458C2314": {
+    "facing": 768875370,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -2015232,
+      819200
+    ]
+  },
+  "455CE4F1-4B28-08B1-01F4-39B6955731F7": {
+    "facing": 1073741853,
+    "kind": "_locationMarkerPlayerStart10",
+    "player": 14,
+    "position": [
+      2277376,
+      -3375104
+    ]
+  },
+  "4568DAC3-4A82-8DA7-F2DB-6982EF95F86C": {
+    "data": {
+      "seed": 11327
+    },
+    "facing": 1138657244,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -917504,
+      -2752512
+    ]
+  },
+  "465A44B9-4E36-7C06-13B4-8788820D6B8F": {
+    "data": {
+      "seed": 8732
+    },
+    "facing": 518503857,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      294912,
+      1933312
+    ]
+  },
+  "4682A3D1-45E1-6DB5-F93D-0EAF857F80C9": {
+    "data": {
+      "seed": 11075
+    },
+    "facing": 456963699,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2244608,
+      1982464
+    ]
+  },
+  "46D3EC68-43E7-30A9-3B53-01A1F64AF79E": {
+    "data": {
+      "seed": 997
+    },
+    "facing": 1338269590,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2473984,
+      -2129920
+    ]
+  },
+  "46E680B2-47B5-2057-2A11-FD8569ECA237": {
+    "facing": 1748308107,
+    "kind": "_locationMarkerPlayerStart7",
+    "player": 11,
+    "position": [
+      2097152,
+      1392640
+    ]
+  },
+  "4818B7A1-4699-2D9F-49BC-91BE5FC58E12": {
+    "facing": 2107521793,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      3325952,
+      -2113536
+    ]
+  },
+  "481E9432-472E-98C6-FB87-D687AFD28687": {
+    "facing": 844096648,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -2818048,
+      -3407872
+    ]
+  },
+  "4841CBCA-4911-3478-670B-C4AE3542F175": {
+    "data": {
+      "seed": 634
+    },
+    "facing": 1186942362,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2277376,
+      -311296
+    ]
+  },
+  "48B14D82-43D3-7166-571A-EBA918335862": {
+    "data": {
+      "seed": 25790
+    },
+    "facing": 1551005968,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3522560,
+      1064960
+    ]
+  },
+  "48EC5688-4306-9989-3C37-D3B11E59F836": {
+    "facing": 2136080036,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      1376256,
+      1884160
+    ]
+  },
+  "4984EF8A-4295-8C2E-84B0-9E842F197CED": {
+    "data": {
+      "seed": 19631
+    },
+    "facing": 715003116,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2392064,
+      1081344
+    ]
+  },
+  "49BB3CFD-4081-F0BE-58E8-DE82A773FD6C": {
+    "data": {
+      "seed": 10110
+    },
+    "facing": 1107854364,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1998848,
+      -3588096
+    ]
+  },
+  "49CFBF87-4825-447F-A69C-3088E5FA2B9A": {
+    "data": {
+      "seed": 18880
+    },
+    "facing": 1806227305,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2129920,
+      -2473984
+    ]
+  },
+  "4A837BA0-42BC-AE92-B859-A88D63E1D291": {
+    "data": {
+      "seed": 27936
+    },
+    "facing": 1679443981,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2572288,
+      3555328
+    ]
+  },
+  "4A92799D-47F0-99FB-67AB-8DA27454D154": {
+    "facing": 1610612750,
+    "kind": "_locationMarkerPlayerStart3",
+    "player": 7,
+    "position": [
+      3375104,
+      2277376
+    ]
+  },
+  "4B52F0C1-42B8-4002-57A4-6B931EB687E1": {
+    "data": {
+      "seed": 5013
+    },
+    "facing": 477657330,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2867200,
+      983040
+    ]
+  },
+  "4BAEEA58-4C6E-6B6B-B904-CF969502A1ED": {
+    "data": {
+      "seed": 6094
+    },
+    "facing": 2135244416,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2031616,
+      2228224
+    ]
+  },
+  "4C67C365-43EF-A881-19CF-BABA6AFB05D5": {
+    "data": {
+      "seed": 29834
+    },
+    "facing": 1069891426,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1458176,
+      -163840
+    ]
+  },
+  "4CEFE8FB-4EC9-5760-5864-5FB33DBC9B32": {
+    "facing": 434303931,
+    "kind": "_locationMarkerPlayerStart22",
+    "player": 26,
+    "position": [
+      -2015232,
+      1376256
+    ]
+  },
+  "4D76B789-4F72-033C-A8B7-7DBA7844EF2C": {
+    "facing": 1050656034,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      3325952,
+      -557056
+    ]
+  },
+  "4D9334BE-4E4B-6A9D-E811-70806E26E416": {
+    "data": {
+      "seed": 598
+    },
+    "facing": 911895654,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1736704,
+      -1196032
+    ]
+  },
+  "4E735129-4641-8B26-33F6-5DB0E54FB4AD": {
+    "data": {
+      "seed": 23623
+    },
+    "facing": 177984827,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2768896,
+      458752
+    ]
+  },
+  "4EB49013-43AD-5E25-B1F8-01B554169F75": {
+    "data": {
+      "seed": 1514
+    },
+    "facing": 343238902,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1949696,
+      2228224
+    ]
+  },
+  "4F1957B2-48FF-7262-B47E-26B1752B5A25": {
+    "data": {
+      "seed": 30052
+    },
+    "facing": 1467232018,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -212992,
+      2293760
+    ]
+  },
+  "4F2583CA-4B2D-34E2-1AE9-FABC43EA4F21": {
+    "facing": 707122220,
+    "kind": "_locationMarkerPlayerStart11",
+    "player": 18,
+    "position": [
+      1392640,
+      -2097152
+    ]
+  },
+  "4F7A74D8-47AA-3027-A532-238D2BE148DA": {
+    "data": {
+      "seed": 11964
+    },
+    "facing": 899246822,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2162688,
+      -1982464
+    ]
+  },
+  "4FE88052-4E1C-C08B-313B-D197094DEEF1": {
+    "data": {
+      "seed": 22353
+    },
+    "facing": 611125486,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2703360,
+      507904
+    ]
+  },
+  "4FF1F3B3-40E7-A6BB-1244-DC9EA7168054": {
+    "facing": 2018144387,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -950272,
+      -1851392
+    ]
+  },
+  "50520249-48A8-3162-437F-DF8CCB332A15": {
+    "data": {
+      "seed": 5584
+    },
+    "facing": 78924157,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1949696,
+      2129920
+    ]
+  },
+  "50CFFED8-447D-4D70-16B7-5D9F90F27211": {
+    "data": {
+      "seed": 25971
+    },
+    "facing": 204839034,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      163840,
+      1458176
+    ]
+  },
+  "51358337-4C64-5DBB-8074-25BE878021D7": {
+    "data": {
+      "seed": 15038
+    },
+    "facing": 1160956539,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3588096,
+      -1998848
+    ]
+  },
+  "51A768E2-4DF4-1893-8606-528D4F411EF2": {
+    "data": {
+      "seed": 9424
+    },
+    "facing": 151474683,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -1179648,
+      1458176
+    ]
+  },
+  "51AA440F-4A50-DF24-1B3A-31B479BCA45E": {
+    "data": {
+      "seed": 13342
+    },
+    "facing": 1658897869,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1015808,
+      -3571712
+    ]
+  },
+  "51FBD90B-469F-7BE1-0D86-66BA231CB521": {
+    "data": {
+      "seed": 27911
+    },
+    "facing": 295265015,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      1900544,
+      2293760
+    ]
+  },
+  "5257DC43-4BAD-A5CF-C118-739C9196C1B9": {
+    "data": {
+      "seed": 13633
+    },
+    "facing": 1127892636,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1474560,
+      -212992
+    ]
+  },
+  "5267C33E-4A12-7F0B-A192-BC9ACC044064": {
+    "data": {
+      "seed": 22498
+    },
+    "facing": 863069927,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -393216,
+      -3440640
+    ]
+  },
+  "5290C4B7-481A-A79A-3552-C3A900AB47FD": {
+    "data": {
+      "seed": 27639
+    },
+    "facing": 1691355532,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3555328,
+      2555904
+    ]
+  },
+  "534519DF-4610-A2BA-5669-1BA38D375008": {
+    "data": {
+      "seed": 13633
+    },
+    "facing": 54150782,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1130496,
+      671744
+    ]
+  },
+  "53AB14D0-4DDA-5BEE-FA13-3B8D5421D316": {
+    "data": {
+      "seed": 15336
+    },
+    "facing": 1265833752,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2162688,
+      2441216
+    ]
+  },
+  "54824687-4ACE-6F45-25C3-4F9E79CC1BC3": {
+    "data": {
+      "seed": 29917
+    },
+    "facing": 972141540,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1933312,
+      2179072
+    ]
+  },
+  "54EC4EE9-49DC-0A0D-B8B6-3FA78DE78D42": {
+    "data": {
+      "seed": 7538
+    },
+    "facing": 147214715,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2031616,
+      2195456
+    ]
+  },
+  "557A8440-4CE9-229C-273A-53994A6099C1": {
+    "facing": 1389389205,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -1851392,
+      950272
+    ]
+  },
+  "558B976B-4F72-6AA6-0136-26839C51CBC1": {
+    "data": {
+      "seed": 20935
+    },
+    "facing": 251928056,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1097728,
+      -3473408
+    ]
+  },
+  "5644CEAC-4D5E-9DC2-3D99-FCBC7595A479": {
+    "data": {
+      "seed": 7433
+    },
+    "facing": 1723714955,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      458752,
+      -2768896
+    ]
+  },
+  "564EE923-439A-9D2E-3418-4B9ED1D82F19": {
+    "facing": 860022376,
+    "kind": "RitualChamber",
+    "player": 31,
+    "position": [
+      2195456,
+      2211840
+    ]
+  },
+  "56D5F441-44AB-FF3A-0C13-358BE63C87FB": {
+    "data": {
+      "seed": 31363
+    },
+    "facing": 1710902284,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      393216,
+      3440640
+    ]
+  },
+  "572988A2-4AFD-D5E0-1112-338F109F3133": {
+    "data": {
+      "seed": 21685
+    },
+    "facing": 1763775114,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1982464,
+      2162688
+    ]
+  },
+  "57368E58-430B-93D9-125E-22983A68C967": {
+    "facing": 1672169357,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      163840,
+      -1130496
+    ]
+  },
+  "580B85C1-4628-345B-7780-A6BD0288526D": {
+    "data": {
+      "seed": 16795
+    },
+    "facing": 1487024530,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      622592,
+      999424
+    ]
+  },
+  "5824D495-47C9-EC6C-76D5-A390F1D13E61": {
+    "data": {
+      "seed": 17893
+    },
+    "facing": 1952426181,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3473408,
+      491520
+    ]
+  },
+  "58402F59-4296-8EC1-4181-059612325AC6": {
+    "data": {
+      "seed": 28130
+    },
+    "facing": 1863573031,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2031616,
+      -3571712
+    ]
+  },
+  "584C1C73-4F4C-6B04-2238-098564E28037": {
+    "data": {
+      "seed": 25682
+    },
+    "facing": 856106472,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3555328,
+      -1949696
+    ]
+  },
+  "58587668-4670-EB92-E1D4-6C92E1360AD0": {
+    "data": {
+      "seed": 14687
+    },
+    "facing": 876718183,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3407872,
+      2539520
+    ]
+  },
+  "586B1DB2-46FE-37AB-AD04-60AC2F5A8334": {
+    "data": {
+      "seed": 24145
+    },
+    "facing": 1496658578,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1015808,
+      3522560
+    ]
+  },
+  "594F7A2C-42DF-3473-8607-47A4273B8353": {
+    "data": {
+      "seed": 1036
+    },
+    "facing": 1972644612,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1425408,
+      196608
+    ]
+  },
+  "595FF825-428F-2962-5350-ACB199CDAD6C": {
+    "facing": 1940105029,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -3407872,
+      1146880
+    ]
+  },
+  "59691053-46CE-3A8E-3717-11A2FEA134AD": {
+    "data": {
+      "seed": 23206
+    },
+    "facing": 6078655,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1228800,
+      -1769472
+    ]
+  },
+  "599491F1-4961-470D-B77B-B19B0101DD8D": {
+    "facing": 893184615,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      311296,
+      -1261568
+    ]
+  },
+  "59D8BA2A-4DB3-7E7E-EC82-3998CD77D38D": {
+    "data": {
+      "seed": 8962
+    },
+    "facing": 1329831574,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2572288,
+      -3555328
+    ]
+  },
+  "5A3436B7-4E6F-0D84-802B-06A437BA6465": {
+    "facing": 993834596,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      1130496,
+      163840
+    ]
+  },
+  "5A6A4E22-4B7D-5C1D-9503-50A6EEF92EF8": {
+    "data": {
+      "seed": 21279
+    },
+    "facing": 1465069170,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1064960,
+      2441216
+    ]
+  },
+  "5B0184D4-4040-9DAD-19F7-83AF6A9DB724": {
+    "facing": 480377142,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -3473408,
+      688128
+    ]
+  },
+  "5B5ED9FE-497F-4EBC-2B97-A0A108510CC3": {
+    "facing": 1418242324,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      81920,
+      1736704
+    ]
+  },
+  "5BA35602-4C94-4F72-D54B-F6B311EB93B7": {
+    "data": {
+      "seed": 15405
+    },
+    "facing": 941830245,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1196032,
+      -1736704
+    ]
+  },
+  "5BBC51A6-41B2-8214-3C70-118133CDD26B": {
+    "data": {
+      "seed": 12631
+    },
+    "facing": 859252328,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2359296,
+      344064
+    ]
+  },
+  "5BE1E5BF-4360-B519-85D8-B8A89B210FFC": {
+    "data": {
+      "seed": 31651
+    },
+    "facing": 580519151,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2752512,
+      -917504
+    ]
+  },
+  "5C1F9887-4D4F-4AB4-442F-5EA0A90542FF": {
+    "facing": 1397253780,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -3325952,
+      -917504
+    ]
+  },
+  "5CC71222-44A9-E9B4-5B66-F8911F137279": {
+    "data": {
+      "seed": 5121
+    },
+    "facing": 98749373,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3538944,
+      507904
+    ]
+  },
+  "5D038B79-4DC3-1F61-8801-A4B5559C3444": {
+    "data": {
+      "seed": 31363
+    },
+    "facing": 1174031387,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3506176,
+      -458752
+    ]
+  },
+  "5D0763BA-483C-D774-0340-5B8C4C7F45E4": {
+    "data": {
+      "seed": 31541
+    },
+    "facing": 213539194,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2293760,
+      229376
+    ]
+  },
+  "5D17223C-4EF4-A13E-E678-AD80CD1E13E6": {
+    "data": {
+      "seed": 8950
+    },
+    "facing": 378973493,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      311296,
+      2277376
+    ]
+  },
+  "5DECB0C6-4315-495E-6950-FAAB2948BBC8": {
+    "data": {
+      "seed": 5457
+    },
+    "facing": 282091896,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3473408,
+      -491520
+    ]
+  },
+  "5E246E79-49F9-678E-9A37-BFA0F2EFC4AA": {
+    "data": {
+      "seed": 10741
+    },
+    "facing": 567837616,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2506752,
+      -1097728
+    ]
+  },
+  "5E3690FD-4F4F-EA3D-BD40-4787208EF0C9": {
+    "data": {
+      "seed": 29906
+    },
+    "facing": 139776156,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3555328,
+      -2555904
+    ]
+  },
+  "5EEE7B70-4E64-2135-1B90-48A4D08012ED": {
+    "data": {
+      "seed": 18880
+    },
+    "facing": 1269356408,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2392064,
+      2195456
+    ]
+  },
+  "5F2BF530-4174-D35B-088B-0980E5771431": {
+    "facing": 1059815010,
+    "kind": "locationMarkerPlayerStart",
+    "player": 1,
+    "position": [
+      -786432,
+      3325952
+    ]
+  },
+  "5F877004-47B5-4D79-1B45-6AB799EBA649": {
+    "data": {
+      "seed": 28844
+    },
+    "facing": 2022224119,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1966080,
+      -1654784
+    ]
+  },
+  "5F9EEAEF-405B-12BC-E5B2-8A8B25898810": {
+    "data": {
+      "seed": 9021
+    },
+    "facing": 979891380,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1769472,
+      1228800
+    ]
+  },
+  "60371940-47DD-B99C-00A6-5090135DF69F": {
+    "facing": 1661601293,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      3227648,
+      -1277952
+    ]
+  },
+  "60931576-4E48-E9D5-C385-9D8BB959F78B": {
+    "data": {
+      "seed": 23623
+    },
+    "facing": 714855724,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -573440,
+      3555328
+    ]
+  },
+  "60A0DE08-4172-B6BF-4984-03B51AD56756": {
+    "data": {
+      "seed": 3486
+    },
+    "facing": 1414244500,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -606208,
+      -1048576
+    ]
+  },
+  "60B651C8-4AD4-801A-2FE1-68B9C8E9E9B7": {
+    "data": {
+      "seed": 13151
+    },
+    "facing": 563856176,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1064960,
+      3522560
+    ]
+  },
+  "60D71F3C-4FEF-176F-AA80-BAB820F72DED": {
+    "facing": 1093993117,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -2113536,
+      -3325952
+    ]
+  },
+  "6119216F-48FA-1D25-48CD-689E1340EB8E": {
+    "facing": 1311956087,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      3473408,
+      1818624
+    ]
+  },
+  "61AEE5BF-4291-C7F3-2198-82A0B1BF7F21": {
+    "facing": 841819240,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -3227648,
+      1277952
+    ]
+  },
+  "6222B9C7-4CC1-DF96-1A42-90A59DE5E086": {
+    "data": {
+      "seed": 2310
+    },
+    "facing": 52741694,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2473984,
+      1064960
+    ]
+  },
+  "62E74858-496A-1FE0-CFFA-3F9A44FB2C4C": {
+    "data": {
+      "seed": 5065
+    },
+    "facing": 1031584483,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2785280,
+      2588672
+    ]
+  },
+  "62F3A99B-4EC3-4ED9-BB0D-30A22132763F": {
+    "data": {
+      "seed": 12707
+    },
+    "facing": 1665369741,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2539520,
+      278528
+    ]
+  },
+  "635B432E-4964-3F09-2553-9892F0172823": {
+    "data": {
+      "seed": 29834
+    },
+    "facing": 2143633280,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1081344,
+      655360
+    ]
+  },
+  "642A743E-4EC1-9989-74AD-FE82C4CE3E2D": {
+    "data": {
+      "seed": 18547
+    },
+    "facing": 1579007055,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -491520,
+      -3555328
+    ]
+  },
+  "64491673-45EE-56A0-4FB9-B788FF9692EA": {
+    "data": {
+      "seed": 29834
+    },
+    "facing": 533020529,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -344064,
+      -1785856
+    ]
+  },
+  "6465125D-4745-113B-43C3-5EBFCDAD2F33": {
+    "facing": 536870897,
+    "kind": "_locationMarkerPlayerStart17",
+    "player": 21,
+    "position": [
+      -3375104,
+      -2277376
+    ]
+  },
+  "646E645D-49FE-0A74-0DBE-BBB291FA766E": {
+    "data": {
+      "seed": 7204
+    },
+    "facing": 951300453,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1458176,
+      -393216
+    ]
+  },
+  "64DA6AD4-4868-4E5F-803F-558D900304FE": {
+    "data": {
+      "seed": 22881
+    },
+    "facing": 566887280,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -1900544,
+      -2162688
+    ]
+  },
+  "64F056C6-43F5-3673-1475-DF9B9AF1727F": {
+    "facing": 1716456587,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      1884160,
+      -1376256
+    ]
+  },
+  "651D34B4-4F32-C1D5-187E-2EA22E68A87E": {
+    "data": {
+      "seed": 26248
+    },
+    "facing": 866936679,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      507904,
+      -2736128
+    ]
+  },
+  "652324CA-48CB-2718-43A8-CA8A97CFE43B": {
+    "data": {
+      "seed": 8062
+    },
+    "facing": 434648051,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -983040,
+      -2785280
+    ]
+  },
+  "6537B07A-4B95-AF15-4001-F7983E0594DA": {
+    "data": {
+      "seed": 20523
+    },
+    "facing": 1984392324,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      360448,
+      3391488
+    ]
+  },
+  "65A113E3-4947-B78D-06FD-CA910D427508": {
+    "data": {
+      "seed": 12322
+    },
+    "facing": 845309160,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -950272,
+      -2834432
+    ]
+  },
+  "6608B1BE-4851-3C47-C051-4A9AC4C75F11": {
+    "data": {
+      "seed": 24145
+    },
+    "facing": 959787621,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3473408,
+      1097728
+    ]
+  },
+  "666FB820-4AAB-4B17-D850-E58D3F6DC2F4": {
+    "data": {
+      "seed": 2651
+    },
+    "facing": 531119985,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2539520,
+      -3407872
+    ]
+  },
+  "669A8EDE-4030-B94B-1174-6F8AAA7DBCCB": {
+    "facing": 387935733,
+    "kind": "_locationMarkerPlayerStart6",
+    "player": 13,
+    "position": [
+      1736704,
+      65536
+    ]
+  },
+  "671C4E45-4528-8295-6A4D-BD821FB644EF": {
+    "facing": 777329770,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -1736704,
+      81920
+    ]
+  },
+  "676DE129-4FCF-FC7E-C915-8F904BDB6BF0": {
+    "data": {
+      "seed": 17195
+    },
+    "facing": 619612590,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1835008,
+      360448
+    ]
+  },
+  "67D03EB8-4178-4DCC-E539-CB896AF80E93": {
+    "data": {
+      "seed": 12104
+    },
+    "facing": 959525477,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2506752,
+      1097728
+    ]
+  },
+  "6948B5C5-4E40-30DE-82F5-23B7423388EA": {
+    "data": {
+      "seed": 24748
+    },
+    "facing": 1103512477,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3506176,
+      2588672
+    ]
+  },
+  "696FE209-4AA9-5D71-FE38-A690BBE18AB3": {
+    "data": {
+      "seed": 18680
+    },
+    "facing": 699192140,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1097728,
+      2506752
+    ]
+  },
+  "697FEC16-4416-DD44-0BE9-D3B6281242AE": {
+    "data": {
+      "seed": 28255
+    },
+    "facing": 1450241267,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2801664,
+      -491520
+    ]
+  },
+  "69893ED3-4B01-9425-3608-9793DDA65D25": {
+    "facing": 955675109,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      688128,
+      3473408
+    ]
+  },
+  "69AF5FFE-4DF9-9F04-88A9-8B98FE72A6AC": {
+    "data": {
+      "seed": 28007
+    },
+    "facing": 132878268,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2146304,
+      2392064
+    ]
+  },
+  "69B180BD-4D8E-7CD7-798D-11A57547B241": {
+    "data": {
+      "seed": 11341
+    },
+    "facing": 1203031930,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2539520,
+      -278528
+    ]
+  },
+  "69EFB885-4264-A267-9AEF-B8B5DF67EA3D": {
+    "data": {
+      "seed": 19211
+    },
+    "facing": 1454075283,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3473408,
+      1982464
+    ]
+  },
+  "69F424DC-41C1-1C5B-E0FC-B7A3356246FE": {
+    "data": {
+      "seed": 29789
+    },
+    "facing": 1945053189,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1703936,
+      1294336
+    ]
+  },
+  "6A03A66B-496F-6CF7-9EB0-2883791F44BE": {
+    "data": {
+      "seed": 174
+    },
+    "facing": 256876152,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      327680,
+      1867776
+    ]
+  },
+  "6A17C334-44B1-165E-BFAE-95B2D876883F": {
+    "data": {
+      "seed": 420
+    },
+    "facing": 913452262,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2867200,
+      -983040
+    ]
+  },
+  "6A697D44-48F4-E29B-8FAD-30B927A296A3": {
+    "data": {
+      "seed": 11312
+    },
+    "facing": 1936123605,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1736704,
+      -1277952
+    ]
+  },
+  "6A774EB0-4E79-1EFD-C941-30BA800857F0": {
+    "data": {
+      "seed": 19211
+    },
+    "facing": 1990946180,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2031616,
+      3571712
+    ]
+  },
+  "6B0C48C8-40E0-6FAF-BAB5-73B482F3E4C2": {
+    "facing": 983184612,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -1261568,
+      -311296
+    ]
+  },
+  "6B62F4E0-4202-09EA-0313-E7B36C94CB4B": {
+    "data": {
+      "seed": 17
+    },
+    "facing": 1132939036,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3506176,
+      -917504
+    ]
+  },
+  "6BBC6BB4-47DB-E0BE-3007-8A8A86D12DFB": {
+    "data": {
+      "seed": 28542
+    },
+    "facing": 1332256470,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -163840,
+      -1458176
+    ]
+  },
+  "6BF3EB7B-4F5A-23C6-88CA-979AA94998ED": {
+    "data": {
+      "seed": 22709
+    },
+    "facing": 553665008,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -655360,
+      -1081344
+    ]
+  },
+  "6C267EDC-4956-B2EF-24E3-DAA3944192CE": {
+    "data": {
+      "seed": 28844
+    },
+    "facing": 1861311867,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1654784,
+      1966080
+    ]
+  },
+  "6C3CD354-4FF5-FE39-8607-7E8BEFC6EB87": {
+    "data": {
+      "seed": 1036
+    },
+    "facing": 1435773715,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      212992,
+      1474560
+    ]
+  },
+  "6CEECC6A-44E1-A32A-70D2-D78C302AE24E": {
+    "data": {
+      "seed": 24052
+    },
+    "facing": 1219662229,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1622016,
+      -1916928
+    ]
+  },
+  "6D185D5D-48F6-9049-0940-CEBA9F4A8BF8": {
+    "data": {
+      "seed": 7327
+    },
+    "facing": 979989732,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -360448,
+      -3391488
+    ]
+  },
+  "6D4D7109-4EEA-11C2-6862-52911BEEB71F": {
+    "data": {
+      "seed": 28816
+    },
+    "facing": 259890936,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1703936,
+      1277952
+    ]
+  },
+  "6DC71300-46AD-0341-7BEC-D4B294BC93F5": {
+    "data": {
+      "seed": 12487
+    },
+    "facing": 688656876,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2031616,
+      -2195456
+    ]
+  },
+  "6E086458-41BA-C1CF-EADF-7D9EB512044B": {
+    "data": {
+      "seed": 3714
+    },
+    "facing": 1604976483,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2244608,
+      -65536
+    ]
+  },
+  "6F2A42C3-46CF-22C2-09F9-58B429663035": {
+    "data": {
+      "seed": 11922
+    },
+    "facing": 1751634123,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2637824,
+      -3473408
+    ]
+  },
+  "6F341C5F-4F59-F57C-42B7-68ADE61BA75B": {
+    "data": {
+      "seed": 25305
+    },
+    "facing": 1936795397,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2277376,
+      -131072
+    ]
+  },
+  "6F635927-49E4-647F-B1E9-6E97DE2CB2EF": {
+    "data": {
+      "seed": 17222
+    },
+    "facing": 380956005,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1130496,
+      -671744
+    ]
+  },
+  "7018A2DC-48F8-5681-AEFD-8C9E4C30E5A4": {
+    "data": {
+      "seed": 26909
+    },
+    "facing": 584009071,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2162688,
+      -2441216
+    ]
+  },
+  "72109C84-40E8-8B75-B485-979A48CDE999": {
+    "facing": 1599930057,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      3424256,
+      327680
+    ]
+  },
+  "7255B02A-41DD-C314-0C1B-0B8CC1264C83": {
+    "data": {
+      "seed": 8710
+    },
+    "facing": 2036167299,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2572288,
+      3457024
+    ]
+  },
+  "72B47038-440F-5543-F70E-7D9204F2D9FB": {
+    "data": {
+      "seed": 10809
+    },
+    "facing": 625396334,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -131072,
+      2588672
+    ]
+  },
+  "74127430-4E36-DD7F-9A18-848B8D2C7672": {
+    "data": {
+      "seed": 6008
+    },
+    "facing": 2109209457,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -278528,
+      -1998848
+    ]
+  },
+  "74BF5DB3-4089-D253-03A9-E687727FC8D7": {
+    "data": {
+      "seed": 4182
+    },
+    "facing": 179803514,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2539520,
+      3407872
+    ]
+  },
+  "7517D40F-4EFC-D6D2-ABD2-28A45816F429": {
+    "data": {
+      "seed": 1572
+    },
+    "facing": 1063517866,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -393216,
+      1458176
+    ]
+  },
+  "757B58EE-4F73-CECE-0EDF-7F8E565A0310": {
+    "data": {
+      "seed": 6008
+    },
+    "facing": 1035467603,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      360448,
+      1835008
+    ]
+  },
+  "75CDFB48-4DB7-0FDD-54FC-2E82A8FB3C42": {
+    "data": {
+      "seed": 10977
+    },
+    "facing": 55789182,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3506176,
+      -2588672
+    ]
+  },
+  "75D128D8-4C09-3486-FB16-359ABD569DFE": {
+    "data": {
+      "seed": 5611
+    },
+    "facing": 416051572,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3522560,
+      2605056
+    ]
+  },
+  "76C39281-442F-6690-2D55-E3BEE84C0610": {
+    "data": {
+      "seed": 2372
+    },
+    "facing": 1974135636,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -671744,
+      -1130496
+    ]
+  },
+  "76EA8476-45EE-5E37-B724-6E868221F79D": {
+    "data": {
+      "seed": 100
+    },
+    "facing": 68978750,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      294912,
+      2555904
+    ]
+  },
+  "76F324BA-4216-E91B-2111-35990C781061": {
+    "data": {
+      "seed": 19630
+    },
+    "facing": 135696444,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -278528,
+      2539520
+    ]
+  },
+  "770025E4-4B3F-0654-CBE8-A9941B2374A5": {
+    "data": {
+      "seed": 18841
+    },
+    "facing": 1132939036,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2818048,
+      1998848
+    ]
+  },
+  "77288825-49E5-7E5D-D3DD-F7AE42FA2795": {
+    "facing": 1092944541,
+    "kind": "_locationMarkerPlayerStart15",
+    "player": 19,
+    "position": [
+      -1376256,
+      -2015232
+    ]
+  },
+  "777A2A31-45BE-014B-847D-4EBF9BF2DCDE": {
+    "data": {
+      "seed": 21322
+    },
+    "facing": 538705905,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1425408,
+      -196608
+    ]
+  },
+  "77B651BE-4930-7376-FCAA-8394FB218564": {
+    "data": {
+      "seed": 5693
+    },
+    "facing": 894151271,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2392064,
+      -1081344
+    ]
+  },
+  "77E384AD-4AD4-85C7-7236-9BBA6532C0EB": {
+    "data": {
+      "seed": 22353
+    },
+    "facing": 1147996443,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -458752,
+      2768896
+    ]
+  },
+  "7911D919-410B-14B2-F517-6BBFF3226C2C": {
+    "data": {
+      "seed": 15361
+    },
+    "facing": 508640369,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1769472,
+      -1228800
+    ]
+  },
+  "7912407A-4EAF-566B-2A49-2F8B2FD10CAA": {
+    "data": {
+      "seed": 16325
+    },
+    "facing": 1795954185,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3473408,
+      -2637824
+    ]
+  },
+  "7920E7AB-4165-3E98-C534-38BEBE1BE236": {
+    "data": {
+      "seed": 11075
+    },
+    "facing": 1530705553,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2179072,
+      -1982464
+    ]
+  },
+  "7942938E-4846-67CB-E869-4D929ECAF161": {
+    "facing": 794107497,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -1130496,
+      -163840
+    ]
+  },
+  "79691CD0-443A-CFFC-D6AE-CAA7E088F1A4": {
+    "data": {
+      "seed": 9868
+    },
+    "facing": 1200819994,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -65536,
+      2244608
+    ]
+  },
+  "796A53EE-46DA-1E88-03FB-16868D999FD2": {
+    "data": {
+      "seed": 23895
+    },
+    "facing": 97946557,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1933312,
+      2850816
+    ]
+  },
+  "79FE5756-4676-DC2B-8EC3-5C899CC4507E": {
+    "facing": 76744957,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      2818048,
+      3407872
+    ]
+  },
+  "7AB247DD-47C2-BC93-8CD1-3086B8DE942A": {
+    "data": {
+      "seed": 31150
+    },
+    "facing": 1479848082,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -1458176,
+      -1261568
+    ]
+  },
+  "7AC46F83-492F-86F0-0B09-E5BCB0DD493C": {
+    "facing": 459454131,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      2408448,
+      -3375104
+    ]
+  },
+  "7B161E84-4B63-6CC5-0C23-32BBF7C26DFB": {
+    "data": {
+      "seed": 24748
+    },
+    "facing": 29770623,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3620864,
+      -2555904
+    ]
+  },
+  "7B5C63C4-4A77-8CF0-689B-BBAF9CDE02A4": {
+    "data": {
+      "seed": 11064
+    },
+    "facing": 1653589293,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2228224,
+      -2441216
+    ]
+  },
+  "7B74D374-4274-DA86-1CBB-71B21446BD67": {
+    "data": {
+      "seed": 11533
+    },
+    "facing": 807723065,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1196032,
+      1769472
+    ]
+  },
+  "7C0BC38D-448B-5968-CC96-6788B32B87CC": {
+    "data": {
+      "seed": 24052
+    },
+    "facing": 887728595,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1916928,
+      1622016
+    ]
+  },
+  "7CA80A0B-4A6C-E237-CFAD-B98E7E7928A1": {
+    "facing": 960508517,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -3473408,
+      -786432
+    ]
+  },
+  "7CEE33E8-430A-6FB8-399E-6DB31A60126C": {
+    "data": {
+      "seed": 24628
+    },
+    "facing": 33604607,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2785280,
+      -2588672
+    ]
+  },
+  "7D0C4B18-4608-F5D6-9A9C-9C89C9039153": {
+    "facing": 468760562,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      2277376,
+      -3522560
+    ]
+  },
+  "7D7AF74D-448E-0614-E3C5-45B5F6318320": {
+    "data": {
+      "seed": 5462
+    },
+    "facing": 1650935053,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2195456,
+      1982464
+    ]
+  },
+  "7D91437C-4EB9-EEA5-8EED-40A7763CD761": {
+    "data": {
+      "seed": 6964
+    },
+    "facing": 1993731508,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -1425408,
+      -1097728
+    ]
+  },
+  "7E11ACE6-45A2-8497-2C33-43B3A28A71E1": {
+    "data": {
+      "seed": 12631
+    },
+    "facing": 1396123284,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -131072,
+      2277376
+    ]
+  },
+  "7E40F5BD-4E33-5DB7-D326-BC97DC8BD9DB": {
+    "data": {
+      "seed": 10123
+    },
+    "facing": 81463677,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2621440,
+      -3538944
+    ]
+  },
+  "7FCC0AEE-4841-D175-4069-CA8F1F402E74": {
+    "data": {
+      "seed": 10123
+    },
+    "facing": 618334574,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3620864,
+      2555904
+    ]
+  },
+  "805830D6-4AD9-2C79-6A48-6CB21ADCC5F5": {
+    "facing": 486603250,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -1949696,
+      -1392640
+    ]
+  },
+  "812A1EB7-41A4-863E-B540-6186745EA448": {
+    "data": {
+      "seed": 4727
+    },
+    "facing": 1990438322,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1851392,
+      -1622016
+    ]
+  },
+  "8159A02A-42FA-200A-FC71-EA95F939D7CB": {
+    "facing": 737449963,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      1835008,
+      851968
+    ]
+  },
+  "816DC6BC-477A-951E-3B91-8187256B9C4E": {
+    "data": {
+      "seed": 11341
+    },
+    "facing": 1739902827,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -131072,
+      -2555904
+    ]
+  },
+  "81E1182D-4C3A-2DC1-C2ED-2C916C00372C": {
+    "data": {
+      "seed": 6094
+    },
+    "facing": 1061502562,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1982464,
+      -2129920
+    ]
+  },
+  "822C2C74-415A-5460-F397-4BA2BAD53D11": {
+    "data": {
+      "seed": 30052
+    },
+    "facing": 2004102915,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2260992,
+      -16384
+    ]
+  },
+  "824ED66D-4433-0A14-295C-FC87877140CB": {
+    "facing": 2001563268,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -1146880,
+      -3407872
+    ]
+  },
+  "82AEBF34-4422-82C3-43F2-239A21279272": {
+    "facing": 1725664715,
+    "kind": "_locationMarkerPlayerStart18",
+    "player": 25,
+    "position": [
+      -2097152,
+      -1392640
+    ]
+  },
+  "83770A01-40AA-D76B-F596-9F90F7FCC998": {
+    "data": {
+      "seed": 10123
+    },
+    "facing": 1155205531,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1966080,
+      2785280
+    ]
+  },
+  "84A47213-4385-8FDF-F106-D5A192495C82": {
+    "data": {
+      "seed": 28542
+    },
+    "facing": 258514616,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      655360,
+      1081344
+    ]
+  },
+  "84B7CAAA-4193-E25A-C8E1-60A92CBB7030": {
+    "data": {
+      "seed": 17222
+    },
+    "facing": 1991568756,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -196608,
+      -1425408
+    ]
+  },
+  "85252AF9-45AE-B513-7624-3F97F1E07010": {
+    "data": {
+      "seed": 28816
+    },
+    "facing": 1870503687,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1277952,
+      -1736704
+    ]
+  },
+  "85619FDF-44A0-60F6-E51C-EEB8EDB88D43": {
+    "data": {
+      "seed": 15183
+    },
+    "facing": 1978657764,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2572288,
+      -3457024
+    ]
+  },
+  "86353DC8-4E5B-C70B-EF0A-75BED094E01C": {
+    "data": {
+      "seed": 11964
+    },
+    "facing": 1972988676,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2228224,
+      1949696
+    ]
+  },
+  "86801CA1-4070-1813-4F2F-EDA2A846CC52": {
+    "data": {
+      "seed": 7538
+    },
+    "facing": 1757827466,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2146304,
+      2031616
+    ]
+  },
+  "87585C3C-4427-D4C0-2EB7-A888FAC3C1F5": {
+    "data": {
+      "seed": 29519
+    },
+    "facing": 1882054759,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -409600,
+      -3506176
+    ]
+  },
+  "88FFBD76-4DBA-6775-B737-C7BDECCFBA5D": {
+    "data": {
+      "seed": 12462
+    },
+    "facing": 969814885,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2572288,
+      -163840
+    ]
+  },
+  "89092A3E-4FFD-A0DB-DE3F-868F052899EF": {
+    "data": {
+      "seed": 20596
+    },
+    "facing": 1426598420,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1949696,
+      3555328
+    ]
+  },
+  "890D3C49-4A9F-27E4-427B-5EBA635FC697": {
+    "data": {
+      "seed": 225
+    },
+    "facing": 231431033,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1228800,
+      1769472
+    ]
+  },
+  "893FB356-423D-7631-19EF-66A934D7488F": {
+    "facing": 1287707031,
+    "kind": "_locationMarkerPlayerStart9",
+    "player": 10,
+    "position": [
+      3325952,
+      -2260992
+    ]
+  },
+  "895B5369-428B-A7D8-450B-FCA736B6271A": {
+    "data": {
+      "seed": 5681
+    },
+    "facing": 1760350698,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -49152,
+      -2228224
+    ]
+  },
+  "8A790E49-4470-13C8-37FB-88AA7B9B206E": {
+    "data": {
+      "seed": 21793
+    },
+    "facing": 311125239,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2228224,
+      49152
+    ]
+  },
+  "8A8A3ACB-40FC-7513-D1A7-B2B885811285": {
+    "data": {
+      "seed": 1712
+    },
+    "facing": 1188023738,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      1933312,
+      2310144
+    ]
+  },
+  "8B01CF49-4FE9-547F-B04A-17806ABC0FF1": {
+    "data": {
+      "seed": 8234
+    },
+    "facing": 1062633058,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -2228224,
+      1900544
+    ]
+  },
+  "8B14BA75-4666-566B-6DAE-7EAEE610E90D": {
+    "data": {
+      "seed": 4391
+    },
+    "facing": 1360683541,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2392064,
+      -2146304
+    ]
+  },
+  "8B643D86-489C-D3FF-B5F5-EC8EE8363E99": {
+    "data": {
+      "seed": 24623
+    },
+    "facing": 1438952339,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2228224,
+      -2031616
+    ]
+  },
+  "8B7FEF0E-4384-3C9E-2B3F-9080BB573AA6": {
+    "data": {
+      "seed": 11967
+    },
+    "facing": 272474232,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      2293760,
+      -1900544
+    ]
+  },
+  "8BD6F53E-4BDA-6580-1145-F395F2BACEC8": {
+    "data": {
+      "seed": 2572
+    },
+    "facing": 177001755,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3407872,
+      -966656
+    ]
+  },
+  "8BDB88EB-4C23-0E7C-CEE1-D38F36759C58": {
+    "data": {
+      "seed": 23623
+    },
+    "facing": 1251726680,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3440640,
+      -524288
+    ]
+  },
+  "8C3065D7-4DCD-DC2E-4779-A98308F1CEAF": {
+    "facing": 491027058,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      3244032,
+      -2949120
+    ]
+  },
+  "8C6F5822-4B1B-BC87-E22A-E5BFD305396F": {
+    "data": {
+      "seed": 9839
+    },
+    "facing": 1436019523,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2473984,
+      -1064960
+    ]
+  },
+  "8CCB232A-495C-E2A2-4095-76AE70AE40D2": {
+    "data": {
+      "seed": 10807
+    },
+    "facing": 1158679067,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      491520,
+      3555328
+    ]
+  },
+  "8D03AE5B-4270-746D-EAE7-C2B1DEBAC12F": {
+    "data": {
+      "seed": 22709
+    },
+    "facing": 1090535965,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      999424,
+      -622592
+    ]
+  },
+  "8D9B1B5D-42E3-6585-69BF-4290583F1C65": {
+    "data": {
+      "seed": 18532
+    },
+    "facing": 45254014,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1097728,
+      3473408
+    ]
+  },
+  "8D9E9A21-40D7-84B3-0F16-FCA4EBE908AB": {
+    "data": {
+      "seed": 12001
+    },
+    "facing": 2066904706,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2179072,
+      1933312
+    ]
+  },
+  "8DC66594-4EB2-8C6E-B197-438FB7EC8CD3": {
+    "data": {
+      "seed": 26836
+    },
+    "facing": 837739466,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1114112,
+      2523136
+    ]
+  },
+  "8DF6BA9E-4732-998C-2336-7CAFCC2627AD": {
+    "data": {
+      "seed": 8962
+    },
+    "facing": 792960617,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2883584,
+      -1966080
+    ]
+  },
+  "8DFA5EE3-4184-D065-38EA-128B6A56C170": {
+    "data": {
+      "seed": 20926
+    },
+    "facing": 1197575898,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      491520,
+      -3473408
+    ]
+  },
+  "8E32E1CA-490E-FC0E-A025-EE983825C0DD": {
+    "data": {
+      "seed": 25971
+    },
+    "facing": 741709931,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1392640,
+      131072
+    ]
+  },
+  "8E4DDA63-4D72-AC15-AA97-8EAAEB054B22": {
+    "data": {
+      "seed": 17211
+    },
+    "facing": 1079623901,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2359296,
+      -344064
+    ]
+  },
+  "8E4F712E-4916-63E6-FA9D-A1A7997CF5F2": {
+    "facing": 1103823773,
+    "kind": "ShadowCleft",
+    "player": 31,
+    "position": [
+      1048576,
+      -1015808
+    ]
+  },
+  "8E70B375-4B32-263F-2B2B-26A90F600BDB": {
+    "data": {
+      "seed": 12487
+    },
+    "facing": 1762398730,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1982464,
+      2195456
+    ]
+  },
+  "8EC292D9-4ECB-54DC-ACF0-6C81F6363DF6": {
+    "data": {
+      "seed": 24748
+    },
+    "facing": 1640383374,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2621440,
+      3538944
+    ]
+  },
+  "8EE44ECF-4811-D696-91A9-D3A644C11FBA": {
+    "data": {
+      "seed": 26373
+    },
+    "facing": 1029454435,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2244608,
+      65536
+    ]
+  },
+  "8FB29298-4269-7D8C-8403-2C9BC37E5C60": {
+    "data": {
+      "seed": 6008
+    },
+    "facing": 498596706,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1933312,
+      -344064
+    ]
+  },
+  "90EFEB05-40CC-A26A-E71E-438333C7E8A0": {
+    "data": {
+      "seed": 9839
+    },
+    "facing": 1436019523,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3571712,
+      -2031616
+    ]
+  },
+  "90FF37F7-4396-09BA-28A9-CC88CA1845C6": {
+    "data": {
+      "seed": 5462
+    },
+    "facing": 1114064156,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1982464,
+      -2179072
+    ]
+  },
+  "912DDFE5-44BA-FA3D-B181-26A1E1A63E4A": {
+    "data": {
+      "seed": 12487
+    },
+    "facing": 1225527833,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2179072,
+      1982464
+    ]
+  },
+  "919D489A-42EF-2377-AE38-F88856CB9AAE": {
+    "data": {
+      "seed": 23091
+    },
+    "facing": 713069804,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1458176,
+      163840
+    ]
+  },
+  "925ACEA4-4D42-3ED5-E08F-6AAE1C7F6E71": {
+    "facing": 33096703,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -786432,
+      3473408
+    ]
+  },
+  "929C268A-4B35-6A68-39C5-6395229F6E91": {
+    "data": {
+      "seed": 2583
+    },
+    "facing": 1127859868,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3506176,
+      458752
+    ]
+  },
+  "92CDA0CF-4D7D-51F8-CE4C-5CA551C1813F": {
+    "data": {
+      "seed": 15500
+    },
+    "facing": 14926271,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3538944,
+      2621440
+    ]
+  },
+  "92F6BA47-4799-24F9-C574-96AD1A80A858": {
+    "facing": 1014724835,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -196608,
+      3260416
+    ]
+  },
+  "93D98D12-49EE-5C15-043D-B0B7DED1FD2A": {
+    "data": {
+      "seed": 32091
+    },
+    "facing": 1353556310,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2588672,
+      -2867200
+    ]
+  },
+  "94DB983C-4EA1-F464-C496-B6B3142FCF36": {
+    "facing": 326985462,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      3309568,
+      1687552
+    ]
+  },
+  "957BE624-456F-C6B4-82BD-998C807F5CFF": {
+    "data": {
+      "seed": 28816
+    },
+    "facing": 1333632790,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -622592,
+      -999424
+    ]
+  },
+  "95B6997D-4FC4-8D56-248D-C78C0EDC0E10": {
+    "facing": 1463119507,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -3424256,
+      -327680
+    ]
+  },
+  "961867F4-443E-C696-C464-03A6FA490EF5": {
+    "facing": 1135593340,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      3473408,
+      -2260992
+    ]
+  },
+  "9621095B-4489-3D63-255F-8A936ADC0B09": {
+    "data": {
+      "seed": 1675
+    },
+    "facing": 1033452259,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2441216,
+      -2162688
+    ]
+  },
+  "96481D4F-4150-B72D-5283-1A89D49977DC": {
+    "data": {
+      "seed": 24145
+    },
+    "facing": 422916724,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1114112,
+      -3407872
+    ]
+  },
+  "96B0853B-4C8D-DA3D-8587-ED97A1AE8412": {
+    "facing": 564757296,
+    "kind": "_locationMarkerPlayerStart4",
+    "player": 8,
+    "position": [
+      3325952,
+      786432
+    ]
+  },
+  "96E18B3D-4C35-F0BB-185C-7DA0D29ED42C": {
+    "data": {
+      "seed": 29199
+    },
+    "facing": 461731571,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1933312,
+      344064
+    ]
+  },
+  "98DB00A1-41C5-3DB8-A9EF-20BF4F0CD327": {
+    "data": {
+      "seed": 28677
+    },
+    "facing": 1827346952,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2572288,
+      -65536
+    ]
+  },
+  "98F2EB97-4879-4F56-4000-118BAC57A444": {
+    "data": {
+      "seed": 174
+    },
+    "facing": 1867488903,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1933312,
+      -294912
+    ]
+  },
+  "998050F6-4590-6C9B-3A3C-B093FFFB7E8B": {
+    "facing": 287367736,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -1884160,
+      1376256
+    ]
+  },
+  "99E0F495-4B6F-5E7D-7C99-88B3CDD7AEE1": {
+    "data": {
+      "seed": 17195
+    },
+    "facing": 1693354444,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1998848,
+      -278528
+    ]
+  },
+  "9A297639-4DDB-9DB8-A7F2-0482F4D78CF5": {
+    "facing": 1999679108,
+    "kind": "_locationMarkerPlayerStart23",
+    "player": 24,
+    "position": [
+      -3325952,
+      2260992
+    ]
+  },
+  "9A3F2F25-4DB2-D2CF-61BB-8BA9E2CB8AE0": {
+    "data": {
+      "seed": 12487
+    },
+    "facing": 151785979,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2146304,
+      -2031616
+    ]
+  },
+  "9BD8A9E3-4668-F790-A838-1B836F152A08": {
+    "data": {
+      "seed": 18903
+    },
+    "facing": 1521546609,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3473408,
+      -1097728
+    ]
+  },
+  "9C12F93E-485F-1F86-CD18-3EBFC1DCF392": {
+    "data": {
+      "seed": 26373
+    },
+    "facing": 2103196289,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2572288,
+      163840
+    ]
+  },
+  "9C4501CC-42FF-FC0D-0CF6-A0965D249332": {
+    "facing": 1921606918,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -1228800,
+      -2015232
+    ]
+  },
+  "9C90E152-463B-4470-3C9A-C89956478BEF": {
+    "data": {
+      "seed": 13781
+    },
+    "facing": 966750949,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2113536,
+      -2392064
+    ]
+  },
+  "9CE2DB13-4A4A-BDB2-0986-E7B4A7B60445": {
+    "data": {
+      "seed": 29199
+    },
+    "facing": 2072344322,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      278528,
+      1998848
+    ]
+  },
+  "9D349036-47DC-49C7-56DB-11968E2EE080": {
+    "data": {
+      "seed": 3367
+    },
+    "facing": 1497051794,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      1425408,
+      1097728
+    ]
+  },
+  "9D873284-47B1-488E-3D40-AFBB26463AD4": {
+    "facing": 611617006,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      1687552,
+      983040
+    ]
+  },
+  "9DA08F22-4673-B788-B6DC-6792734ED532": {
+    "data": {
+      "seed": 32549
+    },
+    "facing": 1869881095,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1933312,
+      294912
+    ]
+  },
+  "9DBFDE34-45D1-E187-8DC1-D480D1DC94E3": {
+    "data": {
+      "seed": 17760
+    },
+    "facing": 549028208,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      1900544,
+      2228224
+    ]
+  },
+  "9DE46E89-48AE-A4F2-5684-149E8C5D9E70": {
+    "data": {
+      "seed": 28255
+    },
+    "facing": 376499413,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3571712,
+      1015808
+    ]
+  },
+  "9E831D11-4FED-E367-AADC-1595C8D15137": {
+    "data": {
+      "seed": 11964
+    },
+    "facing": 1436117779,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2031616,
+      -2228224
+    ]
+  },
+  "9EA811D3-4B6F-D31E-F8E6-369743A063C6": {
+    "data": {
+      "seed": 20560
+    },
+    "facing": 1911989254,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3571712,
+      2031616
+    ]
+  },
+  "9EF9A5B0-4B69-23EC-598C-E7B29150B869": {
+    "data": {
+      "seed": 17760
+    },
+    "facing": 12157311,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      2129920,
+      -1933312
+    ]
+  },
+  "9F8E22E4-4818-5B16-7A05-B7B0CD8F74E4": {
+    "data": {
+      "seed": 21279
+    },
+    "facing": 1879891943,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1064960,
+      -2441216
+    ]
+  },
+  "9FDBD623-44D4-6237-529D-D985C4F13C9D": {
+    "data": {
+      "seed": 26836
+    },
+    "facing": 901360456,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2523136,
+      1114112
+    ]
+  },
+  "A00BAF39-4E32-94E9-2949-AEAE12061B7D": {
+    "data": {
+      "seed": 10151
+    },
+    "facing": 461092595,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2195456,
+      2392064
+    ]
+  },
+  "A0373835-4B0A-4861-1370-1B932A641D17": {
+    "data": {
+      "seed": 26836
+    },
+    "facing": 849044810,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1114112,
+      -2523136
+    ]
+  },
+  "A07DBCCC-4ADB-71DC-6347-0FA8C9BE1A31": {
+    "data": {
+      "seed": 4391
+    },
+    "facing": 1897554438,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2228224,
+      2441216
+    ]
+  },
+  "A0DD0DF8-4A97-1FC4-6FCF-32A02A7AEAB9": {
+    "facing": 379940213,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      2015232,
+      -819200
+    ]
+  },
+  "A2C931DB-4E9B-355F-9889-76B5AD3F21E7": {
+    "data": {
+      "seed": 17339
+    },
+    "facing": 790142506,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2572288,
+      -180224
+    ]
+  },
+  "A2CCA717-4CB4-A6AF-873E-0E93B259D1F9": {
+    "data": {
+      "seed": 25790
+    },
+    "facing": 477264114,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2736128,
+      -507904
+    ]
+  },
+  "A2D7DCDA-425F-C24D-BB6C-4CB6B54F7844": {
+    "data": {
+      "seed": 21322
+    },
+    "facing": 1835007,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -212992,
+      -1474560
+    ]
+  },
+  "A3375CDB-4E28-E4D3-0D01-0C992814371D": {
+    "data": {
+      "seed": 3524
+    },
+    "facing": 2124070208,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2015232,
+      -2277376
+    ]
+  },
+  "A339EDCC-400A-CB19-D3E1-EDAD1FE87EC6": {
+    "data": {
+      "seed": 16795
+    },
+    "facing": 2023895427,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1277952,
+      1736704
+    ]
+  },
+  "A34186E5-453B-C26B-E1C3-4DB3576FC70F": {
+    "data": {
+      "seed": 21138
+    },
+    "facing": 1760956938,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3457024,
+      -1064960
+    ]
+  },
+  "A34C4134-4AC7-5FA5-6886-B089DEDFD93A": {
+    "data": {
+      "seed": 7075
+    },
+    "facing": 1777587178,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -458752,
+      -3506176
+    ]
+  },
+  "A40D1060-4673-2D92-4E7F-91B95E0F60AA": {
+    "data": {
+      "seed": 17339
+    },
+    "facing": 253271608,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -16384,
+      2539520
+    ]
+  },
+  "A41B0FB9-4C8A-E755-6FD1-2793A373BB8E": {
+    "data": {
+      "seed": 25506
+    },
+    "facing": 1255904728,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -983040,
+      -3457024
+    ]
+  },
+  "A4267318-4202-F41F-8E9C-1BB71704F0DF": {
+    "data": {
+      "seed": 19630
+    },
+    "facing": 1746309195,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2572288,
+      180224
+    ]
+  },
+  "A48617D6-48F5-4B9C-06BC-6899C58A58A3": {
+    "facing": 1738297099,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      196608,
+      -3260416
+    ]
+  },
+  "A4B43E77-4308-15CC-414F-C8AD415D5FDC": {
+    "data": {
+      "seed": 18547
+    },
+    "facing": 2115877952,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3506176,
+      -409600
+    ]
+  },
+  "A4C23B25-4A69-B090-6AA2-DD9F7E0C39A1": {
+    "data": {
+      "seed": 1519
+    },
+    "facing": 470611978,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2392064,
+      -2195456
+    ]
+  },
+  "A54F7669-4104-A08F-4091-A0912C2BA3F2": {
+    "facing": 163861371,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      3375104,
+      2408448
+    ]
+  },
+  "A56561B3-4E47-E745-49EF-7D885310DB82": {
+    "data": {
+      "seed": 100
+    },
+    "facing": 1679591501,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2588672,
+      131072
+    ]
+  },
+  "A5CF07E0-4FFC-2E45-8764-609CCF26C221": {
+    "facing": 1073119202,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -1392640,
+      1949696
+    ]
+  },
+  "A62459B0-4E87-2614-EAB6-92AD44D0B7E8": {
+    "data": {
+      "seed": 5795
+    },
+    "facing": 843326568,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1982464,
+      -2244608
+    ]
+  },
+  "A6264616-4659-4068-3490-0188ABB158CB": {
+    "data": {
+      "seed": 21873
+    },
+    "facing": 1700137612,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2424832,
+      2277376
+    ]
+  },
+  "A634BC2F-4124-E233-FD00-628207D8C89B": {
+    "data": {
+      "seed": 24449
+    },
+    "facing": 309486839,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2392064,
+      2113536
+    ]
+  },
+  "A6EA7B1B-4876-4DC7-5DA0-A6AE8D0AF5D8": {
+    "data": {
+      "seed": 13579
+    },
+    "facing": 2142076800,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1966080,
+      3522560
+    ]
+  },
+  "A70E4D05-4C96-F440-175C-D3AF3078AF8A": {
+    "facing": 1278089368,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -557056,
+      -3325952
+    ]
+  },
+  "A717AF56-4BFF-2D9D-19C8-6CA31514ED15": {
+    "data": {
+      "seed": 9839
+    },
+    "facing": 1972890420,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1966080,
+      -2785280
+    ]
+  },
+  "A71C9620-4609-B7A6-1D94-1B87BE252CAB": {
+    "data": {
+      "seed": 23245
+    },
+    "facing": 1216172313,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1507328,
+      442368
+    ]
+  },
+  "A74071AE-4449-C46C-CBB5-669016A32A2E": {
+    "data": {
+      "seed": 24623
+    },
+    "facing": 1975823236,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1949696,
+      -2228224
+    ]
+  },
+  "A774070C-42FA-D42E-B42A-8EAAEB96F01C": {
+    "data": {
+      "seed": 5695
+    },
+    "facing": 2010328963,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3457024,
+      983040
+    ]
+  },
+  "A782BC1A-4986-37F7-7376-DC9EAD489A08": {
+    "facing": 612862190,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      3473408,
+      -688128
+    ]
+  },
+  "A86670D4-4A47-DBFF-2788-18A6334680B8": {
+    "data": {
+      "seed": 9713
+    },
+    "facing": 365636471,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1064960,
+      -2490368
+    ]
+  },
+  "A877258A-4420-D1D7-D3F3-E986DCE3DB32": {
+    "data": {
+      "seed": 1100
+    },
+    "facing": 1329946262,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2785280,
+      -983040
+    ]
+  },
+  "AA06391A-475E-E1E5-14F6-53A3E305A1B8": {
+    "data": {
+      "seed": 9274
+    },
+    "facing": 1155582427,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2752512,
+      917504
+    ]
+  },
+  "AA76C111-4EB2-7882-E0D6-02A5B1F2177E": {
+    "facing": 508263537,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      1851392,
+      -950272
+    ]
+  },
+  "AAEA795B-4020-A04A-476B-379A0BB44229": {
+    "data": {
+      "seed": 9551
+    },
+    "facing": 549896560,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1998848,
+      3588096
+    ]
+  },
+  "AB3782A6-49C8-EB4A-99D1-B3821D1D8E3E": {
+    "data": {
+      "seed": 11001
+    },
+    "facing": 1342808086,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2129920,
+      -1949696
+    ]
+  },
+  "AB554A40-43DF-FAC1-159F-82867E32460D": {
+    "data": {
+      "seed": 30196
+    },
+    "facing": 422965860,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3588096,
+      1998848
+    ]
+  },
+  "AB898288-4D83-B4F1-D7E6-759F67908405": {
+    "data": {
+      "seed": 5432
+    },
+    "facing": 155128443,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      278528,
+      -2539520
+    ]
+  },
+  "ABA69DDC-47F1-F54D-9082-F29C6FC189DE": {
+    "data": {
+      "seed": 1538
+    },
+    "facing": 1591344579,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3555328,
+      1949696
+    ]
+  },
+  "AC53B677-4756-0620-B479-8E95B74CDDDC": {
+    "data": {
+      "seed": 9713
+    },
+    "facing": 1140475902,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2490368,
+      -1064960
+    ]
+  },
+  "ACD4CAC8-43E9-25A3-DF24-DD846E5A1125": {
+    "data": {
+      "seed": 18903
+    },
+    "facing": 984675652,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1114112,
+      3407872
+    ]
+  },
+  "ACEB418B-4ECB-BC5C-5E28-BABDCEB7C7AF": {
+    "data": {
+      "seed": 11565
+    },
+    "facing": 237395065,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2834432,
+      950272
+    ]
+  },
+  "ACECB7A3-49C9-012F-FAF6-C892E83A9EDC": {
+    "data": {
+      "seed": 11341
+    },
+    "facing": 129290076,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2539520,
+      16384
+    ]
+  },
+  "AD80E2A1-40D8-A2EF-A361-C08947AD9FE4": {
+    "data": {
+      "seed": 20935
+    },
+    "facing": 788798954,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3522560,
+      1015808
+    ]
+  },
+  "AE513DEE-4FF3-E48E-8DA8-0789B47712EA": {
+    "data": {
+      "seed": 13913
+    },
+    "facing": 264249208,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -966656,
+      -3407872
+    ]
+  },
+  "AEEFCBB9-4E1D-6055-B4CF-138EC65A9D7C": {
+    "data": {
+      "seed": 23091
+    },
+    "facing": 176198907,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      344064,
+      1785856
+    ]
+  },
+  "AEEFD897-4360-35FB-2CE0-D1901DC4361D": {
+    "data": {
+      "seed": 6732
+    },
+    "facing": 20218495,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1294336,
+      1703936
+    ]
+  },
+  "AEF9DCEE-4A1A-9454-FF53-A28868354C9E": {
+    "facing": 816406889,
+    "kind": "_locationMarkerPlayerStart2",
+    "player": 3,
+    "position": [
+      2260992,
+      3325952
+    ]
+  },
+  "AFE00374-450B-2835-952E-B1932946D7F1": {
+    "data": {
+      "seed": 17339
+    },
+    "facing": 1327013462,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -294912,
+      -2555904
+    ]
+  },
+  "AFE44AE4-43F1-2E4C-4D42-9687B6ED3C18": {
+    "data": {
+      "seed": 8933
+    },
+    "facing": 950268205,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -16384,
+      2260992
+    ]
+  },
+  "B054C849-4A47-234E-671C-9B9BA54BFD85": {
+    "data": {
+      "seed": 174
+    },
+    "facing": 793747049,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1785856,
+      344064
+    ]
+  },
+  "B081695B-48EB-A201-BD4B-6DBDE81A9DC2": {
+    "data": {
+      "seed": 29583
+    },
+    "facing": 1239290777,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      966656,
+      3407872
+    ]
+  },
+  "B233CEAE-4A78-87CC-6D10-72AC2F2AFFF2": {
+    "facing": 712463596,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      1146880,
+      3407872
+    ]
+  },
+  "B2DC6EF2-4A66-1D76-83CD-E1A46DD5EAC0": {
+    "data": {
+      "seed": 14687
+    },
+    "facing": 339847286,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2605056,
+      3522560
+    ]
+  },
+  "B3226EA2-4FAD-DC15-BDAF-CF927B08242A": {
+    "data": {
+      "seed": 23213
+    },
+    "facing": 1249629464,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -1097728,
+      1425408
+    ]
+  },
+  "B359CA84-4021-AC41-16B5-90A3CFB2660C": {
+    "data": {
+      "seed": 7710
+    },
+    "facing": 1234178841,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -442368,
+      1507328
+    ]
+  },
+  "B3B09FB5-4D29-FE71-2A00-99B3F992B2D6": {
+    "facing": 1386554773,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      917504,
+      -3325952
+    ]
+  },
+  "B3CFD836-4938-8A2B-E946-558760F6C690": {
+    "data": {
+      "seed": 18655
+    },
+    "facing": 1775948746,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1949696,
+      -3555328
+    ]
+  },
+  "B418D60C-41DA-AFF0-010A-37B14E292528": {
+    "facing": 1997729316,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -1687552,
+      3309568
+    ]
+  },
+  "B428DDB0-4E11-B8EB-0805-138E50361469": {
+    "data": {
+      "seed": 18528
+    },
+    "facing": 1532016337,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1196032,
+      -1769472
+    ]
+  },
+  "B447C0E1-4EBA-93C1-9183-5385691B9203": {
+    "data": {
+      "seed": 24052
+    },
+    "facing": 833037140,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1916928,
+      -1622016
+    ]
+  },
+  "B482C0B0-41BC-D748-58CB-CEB2C30B883E": {
+    "data": {
+      "seed": 6126
+    },
+    "facing": 1558936080,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2293760,
+      -229376
+    ]
+  },
+  "B4A7987E-4D12-B91D-FCAD-439F19D32753": {
+    "data": {
+      "seed": 4252
+    },
+    "facing": 1893376455,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -1933312,
+      -2129920
+    ]
+  },
+  "B4A9F980-4B6B-3E22-F34A-D7AC6FF7496A": {
+    "data": {
+      "seed": 6132
+    },
+    "facing": 1786926346,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1736704,
+      1196032
+    ]
+  },
+  "B4E9EB19-4CCB-6079-FF73-CBA8D91D431B": {
+    "data": {
+      "seed": 21793
+    },
+    "facing": 1921737990,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      311296,
+      2342912
+    ]
+  },
+  "B5399A18-4A9F-3514-3923-B9A51656DFE1": {
+    "data": {
+      "seed": 26373
+    },
+    "facing": 1566325392,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      163840,
+      2277376
+    ]
+  },
+  "B5E2E6AD-47FF-CE59-B31A-32866ED24B50": {
+    "data": {
+      "seed": 11530
+    },
+    "facing": 1757614474,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -1261568,
+      1458176
+    ]
+  },
+  "B644E669-49D0-A54F-5420-A08270CBF9E3": {
+    "data": {
+      "seed": 8641
+    },
+    "facing": 940879909,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1998848,
+      278528
+    ]
+  },
+  "B7217B43-4C33-70D8-3BD6-BDAB356C35BC": {
+    "data": {
+      "seed": 22709
+    },
+    "facing": 1627406862,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1736704,
+      1277952
+    ]
+  },
+  "B78D9138-49FB-8BF4-F2B6-FA8E9331DDCA": {
+    "data": {
+      "seed": 23902
+    },
+    "facing": 1380476053,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2277376,
+      131072
+    ]
+  },
+  "B7913612-4861-94F6-2062-FDA4C074C637": {
+    "data": {
+      "seed": 12787
+    },
+    "facing": 1443769363,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      131072,
+      2555904
+    ]
+  },
+  "B7D42463-4DCC-3CA9-15D2-D290E79C2BFA": {
+    "data": {
+      "seed": 13342
+    },
+    "facing": 585156015,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -491520,
+      2801664
+    ]
+  },
+  "B9109605-4D44-473C-782B-8E80867C8BF7": {
+    "data": {
+      "seed": 27601
+    },
+    "facing": 297132903,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2392064,
+      -2113536
+    ]
+  },
+  "BB2EFD8F-4F58-6006-35A4-B3848B3C0C14": {
+    "data": {
+      "seed": 24726
+    },
+    "facing": 932671206,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1900544,
+      -3538944
+    ]
+  },
+  "BC00A6FD-4441-36E7-297E-A4B49CC2E32E": {
+    "data": {
+      "seed": 20719
+    },
+    "facing": 1558067600,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      229376,
+      2293760
+    ]
+  },
+  "BC23BC25-4FD5-FEBB-BBFA-8DA278B066D3": {
+    "data": {
+      "seed": 3524
+    },
+    "facing": 1587199311,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2228224,
+      -1949696
+    ]
+  },
+  "BCE3BBC6-42C3-379F-FD2A-B0ABB584E2C2": {
+    "data": {
+      "seed": 21279
+    },
+    "facing": 221108761,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2441216,
+      -1064960
+    ]
+  },
+  "BD39665A-4AEA-3303-8B24-1DA941008550": {
+    "data": {
+      "seed": 2876
+    },
+    "facing": 566215486,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1081344,
+      2555904
+    ]
+  },
+  "BD489557-4DCD-3B56-2799-47AC3E733935": {
+    "data": {
+      "seed": 5692
+    },
+    "facing": 812736745,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2588672,
+      -2785280
+    ]
+  },
+  "BD6100AE-4055-58AF-01CA-4CA766CD13AF": {
+    "data": {
+      "seed": 28711
+    },
+    "facing": 1836391176,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -1064960,
+      1376256
+    ]
+  },
+  "BD8610DE-4034-FA0C-D39F-27AF43560A33": {
+    "facing": 1780700298,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      1687552,
+      -3309568
+    ]
+  },
+  "BDAC312A-42BE-0966-1F48-AA8E916AD26D": {
+    "data": {
+      "seed": 24145
+    },
+    "facing": 2033529475,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2703360,
+      -507904
+    ]
+  },
+  "BDD6E40A-4767-0454-7642-04B336A43A2B": {
+    "data": {
+      "seed": 22584
+    },
+    "facing": 2001825412,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      950272,
+      2834432
+    ]
+  },
+  "BE08B356-4372-7FCE-3F7B-A0B3BA203809": {
+    "data": {
+      "seed": 27936
+    },
+    "facing": 68831230,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2768896,
+      -2015232
+    ]
+  },
+  "BEA05D3F-4CBB-B78D-08C2-6F9DADB5D8A0": {
+    "data": {
+      "seed": 24726
+    },
+    "facing": 1469542162,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3588096,
+      -1982464
+    ]
+  },
+  "BECCF803-4F73-17F1-71D3-46A410D33EF7": {
+    "data": {
+      "seed": 7501
+    },
+    "facing": 629017326,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3407872,
+      -2539520
+    ]
+  },
+  "BF0F6A56-41D8-3DB1-9234-EDA494A3F04A": {
+    "facing": 862643895,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -1277952,
+      -3227648
+    ]
+  },
+  "BF2BA682-465E-62A8-608C-45BC2B2580F3": {
+    "data": {
+      "seed": 18880
+    },
+    "facing": 732485451,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2228224,
+      2359296
+    ]
+  },
+  "BF57DEF7-4D50-313F-83D9-128ADE1A42D0": {
+    "facing": 0,
+    "kind": "locationMarkerPlayerStart",
+    "player": 1,
+    "position": [
+      -2277376,
+      3375104
+    ]
+  },
+  "BFCAD0FF-4E92-DA75-3C3C-95B6950B8F0C": {
+    "data": {
+      "seed": 15694
+    },
+    "facing": 1272731544,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2342912,
+      -311296
+    ]
+  },
+  "BFDDFA99-4BAF-EDED-BEB5-C1B6728CA801": {
+    "facing": 200677370,
+    "kind": "_locationMarkerPlayerStart0",
+    "player": 2,
+    "position": [
+      688128,
+      3325952
+    ]
+  },
+  "BFF912E8-4A20-F7FB-37F2-589D715DF19C": {
+    "facing": 156226203,
+    "kind": "_locationMarkerPlayerStart20",
+    "player": 27,
+    "position": [
+      -1736704,
+      -65536
+    ]
+  },
+  "C09483BD-4FF7-9390-233E-BABB90BF19A6": {
+    "data": {
+      "seed": 14804
+    },
+    "facing": 212162938,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3522560,
+      -1064960
+    ]
+  },
+  "C0BB7F9B-4097-C638-F700-C0B5ECCD1A9B": {
+    "data": {
+      "seed": 29843
+    },
+    "facing": 1321180566,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -2310144,
+      1933312
+    ]
+  },
+  "C1158F67-4F92-A879-2247-8196B145C5F1": {
+    "facing": 55297694,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -1736704,
+      -196608
+    ]
+  },
+  "C1AA17AB-424C-0840-185B-F2906DB3D273": {
+    "data": {
+      "seed": 5462
+    },
+    "facing": 40322302,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1982464,
+      2244608
+    ]
+  },
+  "C1D03354-4945-1CC0-6B8D-4881F1A0B06F": {
+    "data": {
+      "seed": 22353
+    },
+    "facing": 74254589,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1015808,
+      -3522560
+    ]
+  },
+  "C3079246-456C-E1F3-E7BC-C3B4586003B9": {
+    "data": {
+      "seed": 2876
+    },
+    "facing": 704910266,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2555904,
+      -1081344
+    ]
+  },
+  "C31EEDE9-451D-CB37-8800-50A19E2CDC69": {
+    "data": {
+      "seed": 28255
+    },
+    "facing": 913370310,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -507904,
+      2736128
+    ]
+  },
+  "C32E5F0C-4A33-3757-7969-26A55B4FC94B": {
+    "data": {
+      "seed": 2409
+    },
+    "facing": 496352050,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      409600,
+      3506176
+    ]
+  },
+  "C3374A77-4961-9E5B-FC21-1DB3947FDB2F": {
+    "facing": 1935992533,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -851968,
+      1835008
+    ]
+  },
+  "C39EA30C-49FE-7BA2-5750-C59130AD00A1": {
+    "data": {
+      "seed": 27923
+    },
+    "facing": 32064511,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2752512,
+      2539520
+    ]
+  },
+  "C3A36A80-439A-8651-7AAD-B0848435471B": {
+    "data": {
+      "seed": 30563
+    },
+    "facing": 1835113160,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2473984,
+      -2195456
+    ]
+  },
+  "C4181246-4C83-2AC1-EB25-EFA324822B41": {
+    "data": {
+      "seed": 20935
+    },
+    "facing": 1862540807,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2768896,
+      -458752
+    ]
+  },
+  "C43AB1D4-4E4E-45CD-36DF-79AB3DDA5D11": {
+    "facing": 1159465499,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -688128,
+      -3473408
+    ]
+  },
+  "C449E360-496E-4B01-70CB-06AE6AF1AA01": {
+    "data": {
+      "seed": 22290
+    },
+    "facing": 1335172886,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      983040,
+      2867200
+    ]
+  },
+  "C554EDEF-4969-3C84-80DA-7FBD4A437A54": {
+    "facing": 1630569102,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -3473408,
+      -1818624
+    ]
+  },
+  "C5A1A2B3-4534-C67B-8E8E-BA8A4C01E74F": {
+    "data": {
+      "seed": 28677
+    },
+    "facing": 216734201,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -163840,
+      -2572288
+    ]
+  },
+  "C67E35AD-44FB-31BF-71B2-C2AEE361E8CF": {
+    "data": {
+      "seed": 12787
+    },
+    "facing": 370027509,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      131072,
+      -2588672
+    ]
+  },
+  "C68C0AEC-4F65-9288-FDBA-DC8B004AA9D5": {
+    "facing": 955298277,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      2015232,
+      -1228800
+    ]
+  },
+  "C696DBBE-4F45-9F09-58C2-9186273E97B7": {
+    "data": {
+      "seed": 27936
+    },
+    "facing": 1142573083,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3473408,
+      2637824
+    ]
+  },
+  "C89DE89C-4699-94A8-A949-F789E3842188": {
+    "data": {
+      "seed": 12707
+    },
+    "facing": 591627887,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2408448,
+      -344064
+    ]
+  },
+  "C99D9561-43CC-2634-535F-5EA5DEB027AC": {
+    "data": {
+      "seed": 7433
+    },
+    "facing": 649973101,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -524288,
+      3440640
+    ]
+  },
+  "C9C02545-4965-9305-0804-5984A4A0A5F6": {
+    "facing": 792059465,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      196608,
+      -1736704
+    ]
+  },
+  "CA61B943-49FF-DAD3-5D4A-CCBDD54AFEEF": {
+    "facing": 165712827,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -819200,
+      -2015232
+    ]
+  },
+  "CB9CB282-48CB-98EF-B208-318E3B49D84B": {
+    "facing": 1610612750,
+    "kind": "LesserShrine",
+    "player": 31,
+    "position": [
+      -622592,
+      -65536
+    ]
+  },
+  "CBB8B870-4AA8-1B67-7471-06824CF5101A": {
+    "data": {
+      "seed": 12976
+    },
+    "facing": 1203048346,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -491520,
+      3473408
+    ]
+  },
+  "CBEC2BBD-4C21-D213-BBAB-E6A9161963A8": {
+    "data": {
+      "seed": 1144
+    },
+    "facing": 22037119,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1736704,
+      1245184
+    ]
+  },
+  "CC7DC9E3-436A-F31B-C213-A6ABE44B58AC": {
+    "data": {
+      "seed": 16795
+    },
+    "facing": 413282676,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -131072,
+      -1392640
+    ]
+  },
+  "CD7E2757-4130-0E82-7B0D-139E58FEC328": {
+    "data": {
+      "seed": 28542
+    },
+    "facing": 1869127367,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1392640,
+      -131072
+    ]
+  },
+  "CE912B19-445E-CF18-22BD-BF9FF542A415": {
+    "data": {
+      "seed": 12265
+    },
+    "facing": 1198837498,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      1933312,
+      2129920
+    ]
+  },
+  "CF2B0787-4B25-6C4C-A632-E6A076B61A8B": {
+    "data": {
+      "seed": 30583
+    },
+    "facing": 1963518485,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      131072,
+      -2277376
+    ]
+  },
+  "CF6A8B57-460F-A922-EE75-BAB50FC71199": {
+    "data": {
+      "seed": 5795
+    },
+    "facing": 306455671,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2195456,
+      -1982464
+    ]
+  },
+  "CFA27070-4FD3-7B79-A24C-A395DD4B64A4": {
+    "facing": 2071197422,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -2424832,
+      3375104
+    ]
+  },
+  "D098C021-4237-7221-AC99-36A805F5DECA": {
+    "data": {
+      "seed": 11922
+    },
+    "facing": 141021372,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3555328,
+      2572288
+    ]
+  },
+  "D0B069FF-4BE4-D115-54B4-F3B2B1229195": {
+    "data": {
+      "seed": 20560
+    },
+    "facing": 1375118357,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1982464,
+      -3473408
+    ]
+  },
+  "D0F68970-4AFE-1D33-83C7-7F9068894231": {
+    "data": {
+      "seed": 31037
+    },
+    "facing": 1194511994,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3407872,
+      -1114112
+    ]
+  },
+  "D163C3EF-43DE-3E17-80C7-A0B39F7021F6": {
+    "data": {
+      "seed": 1514
+    },
+    "facing": 1416980756,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1982464,
+      -2162688
+    ]
+  },
+  "D1836875-421B-B1E7-471F-DE848D5408B6": {
+    "facing": 646778094,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -3407872,
+      2818048
+    ]
+  },
+  "D1C908A0-4075-0271-44A1-FA93FD206F3C": {
+    "data": {
+      "seed": 27601
+    },
+    "facing": 834003800,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2277376,
+      2424832
+    ]
+  },
+  "D1D39503-4474-5C65-0B2E-03BFC9C9C648": {
+    "data": {
+      "seed": 15143
+    },
+    "facing": 1760825866,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3538944,
+      -2621440
+    ]
+  },
+  "D2145CB9-4314-B86A-80E7-059F2194A5D0": {
+    "facing": 57706238,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      983040,
+      -1687552
+    ]
+  },
+  "D21FBAED-4C93-EAAE-8E09-7E9D5086E80D": {
+    "facing": 1136494492,
+    "kind": "RitualChamber",
+    "player": 31,
+    "position": [
+      -2195456,
+      -2211840
+    ]
+  },
+  "D22EB518-4BB7-3669-3F79-8FBD189C86CE": {
+    "data": {
+      "seed": 2409
+    },
+    "facing": 2106964801,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3555328,
+      -491520
+    ]
+  },
+  "D2AE581C-4FA0-9113-E1E7-B7A1FA26AE8D": {
+    "data": {
+      "seed": 1538
+    },
+    "facing": 1054473622,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1900544,
+      3506176
+    ]
+  },
+  "D2E12E17-4E37-6B07-9E3C-879CD3CD7F9E": {
+    "facing": 699519820,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -1376256,
+      -1884160
+    ]
+  },
+  "D3145764-4F61-3521-4C89-48AFEA18EC2D": {
+    "data": {
+      "seed": 10807
+    },
+    "facing": 1695549964,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3506176,
+      409600
+    ]
+  },
+  "D3338B6A-4677-48C5-2ECA-67A697FFCCD7": {
+    "facing": 26690303,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      1949696,
+      1392640
+    ]
+  },
+  "D3708AEF-47A0-29E8-8DEC-648CA58BA4FF": {
+    "data": {
+      "seed": 18924
+    },
+    "facing": 1074102301,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2244608,
+      -1982464
+    ]
+  },
+  "D37392D7-40F8-1C21-6CF0-84B4C15D3B9B": {
+    "data": {
+      "seed": 11930
+    },
+    "facing": 1427073556,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2260992,
+      16384
+    ]
+  },
+  "D3778566-4080-68C6-25D3-0DAA66CB6600": {
+    "data": {
+      "seed": 13766
+    },
+    "facing": 2117352576,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3457024,
+      2572288
+    ]
+  },
+  "D3AE74A0-4D22-44FB-8B62-7DA0A103808A": {
+    "data": {
+      "seed": 25305
+    },
+    "facing": 1399924500,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -344064,
+      2359296
+    ]
+  },
+  "D402C4AC-4DEA-1F7E-F02F-32BC41091272": {
+    "data": {
+      "seed": 19592
+    },
+    "facing": 1115522332,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2195456,
+      -2473984
+    ]
+  },
+  "D43AC533-4708-B5F5-575D-BABB48BD17B6": {
+    "data": {
+      "seed": 23895
+    },
+    "facing": 1171688411,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2555904,
+      -3620864
+    ]
+  },
+  "D45FF13E-40EA-5C3F-6DF8-5C86C40D576E": {
+    "data": {
+      "seed": 10815
+    },
+    "facing": 1512322193,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      1458176,
+      1179648
+    ]
+  },
+  "D5811AFC-44AF-E7B7-E04A-5698A0BA5A38": {
+    "data": {
+      "seed": 23895
+    },
+    "facing": 634817454,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3473408,
+      -1982464
+    ]
+  },
+  "D61ED55B-4AE9-9816-B355-7C9C5BEE99A1": {
+    "data": {
+      "seed": 24623
+    },
+    "facing": 365210485,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2277376,
+      2015232
+    ]
+  },
+  "D6D06444-4A1C-F3A2-0CF8-73ADDC56A00B": {
+    "data": {
+      "seed": 2833
+    },
+    "facing": 340174966,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      458752,
+      3506176
+    ]
+  },
+  "D795A4F1-4D14-3DC1-122F-668870BAB179": {
+    "data": {
+      "seed": 23091
+    },
+    "facing": 1786811658,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1867776,
+      -327680
+    ]
+  },
+  "D7B56337-4CDA-CB59-700B-E9B4F955F7D8": {
+    "data": {
+      "seed": 24052
+    },
+    "facing": 959115857,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1622016,
+      1916928
+    ]
+  },
+  "D7F89F73-4702-B5A5-919A-44A44F54B762": {
+    "facing": 1073741853,
+    "kind": "LesserShrine",
+    "player": 31,
+    "position": [
+      -65536,
+      622592
+    ]
+  },
+  "D9F8D033-4ECD-8FBA-FC8D-06A5E6569B4F": {
+    "data": {
+      "seed": 12834
+    },
+    "facing": 1333518102,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3588096,
+      1982464
+    ]
+  },
+  "DA10CDBD-414D-B5D2-A49A-EFABF239859E": {
+    "data": {
+      "seed": 5432
+    },
+    "facing": 1228870297,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -327680,
+      2424832
+    ]
+  },
+  "DA8D366E-42E7-CE37-F966-12A25E150983": {
+    "data": {
+      "seed": 18785
+    },
+    "facing": 2104752873,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -2129920,
+      1933312
+    ]
+  },
+  "DA9B1418-4075-192E-C4EA-138B4BFFE744": {
+    "data": {
+      "seed": 4686
+    },
+    "facing": 789913066,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1703936,
+      -1294336
+    ]
+  },
+  "DAA4CF1F-442A-374A-4D2A-1982F4B2523A": {
+    "data": {
+      "seed": 14882
+    },
+    "facing": 1110738076,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -917504,
+      -3506176
+    ]
+  },
+  "DB94F390-4955-5DC2-A474-8887889780E0": {
+    "data": {
+      "seed": 7501
+    },
+    "facing": 92146429,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2605056,
+      -3522560
+    ]
+  },
+  "DBAF7DB7-4B4C-F3D6-C1F2-75821413C3FA": {
+    "data": {
+      "seed": 30824
+    },
+    "facing": 807165929,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -311296,
+      -2277376
+    ]
+  },
+  "DC738C31-49C8-8F30-9AFE-5EAD90250499": {
+    "data": {
+      "seed": 25503
+    },
+    "facing": 1396483732,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      442368,
+      -1556480
+    ]
+  },
+  "DC8F96C3-4155-777C-827E-6BB8293581EA": {
+    "data": {
+      "seed": 30285
+    },
+    "facing": 199251962,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3391488,
+      360448
+    ]
+  },
+  "DCFCBF25-4106-5150-1FD3-9DA29B5CC562": {
+    "facing": 614418670,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      557056,
+      3325952
+    ]
+  },
+  "DD376782-412B-0D5D-45C6-799655B9A774": {
+    "data": {
+      "seed": 1712
+    },
+    "facing": 651152781,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      2162688,
+      -1900544
+    ]
+  },
+  "DDBABC7E-4629-F701-1805-5797CFCB0D43": {
+    "data": {
+      "seed": 8657
+    },
+    "facing": 391114389,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2867200,
+      -2588672
+    ]
+  },
+  "DE30AD10-41D9-3B3F-8A34-068F2464A94A": {
+    "facing": 1284872536,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      2113536,
+      3325952
+    ]
+  },
+  "DE63153D-44BA-655A-FC2D-599BC53C64A0": {
+    "data": {
+      "seed": 3205
+    },
+    "facing": 742660203,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2228224,
+      -49152
+    ]
+  },
+  "DE737108-42E8-057D-13A5-419BB3129D14": {
+    "data": {
+      "seed": 12787
+    },
+    "facing": 1980640260,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2539520,
+      -16384
+    ]
+  },
+  "DF5AE8EF-4583-58D7-30B8-6C912F394668": {
+    "data": {
+      "seed": 28762
+    },
+    "facing": 1235161881,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      983040,
+      3457024
+    ]
+  },
+  "E0539410-4D1A-0230-CC43-3BAFD74933A0": {
+    "facing": 483326354,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -1835008,
+      -851968
+    ]
+  },
+  "E0A07129-4D03-CD26-86E0-2F9D58BF45E2": {
+    "data": {
+      "seed": 2551
+    },
+    "facing": 1200164634,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      1376256,
+      1064960
+    ]
+  },
+  "E13B9D41-4E62-FFFD-C130-39BEC26E5C99": {
+    "data": {
+      "seed": 5453
+    },
+    "facing": 325969622,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3522560,
+      1966080
+    ]
+  },
+  "E18D254A-4E3D-5C0C-F38B-8195B0902BF4": {
+    "data": {
+      "seed": 21277
+    },
+    "facing": 730437355,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3506176,
+      1900544
+    ]
+  },
+  "E19C89B2-4A02-E9EE-9AB9-4484F0859BF7": {
+    "data": {
+      "seed": 13781
+    },
+    "facing": 1503621905,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2424832,
+      -2277376
+    ]
+  },
+  "E1CEC14E-45C4-410E-10E5-3AACEAD76122": {
+    "data": {
+      "seed": 19211
+    },
+    "facing": 917204326,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1933312,
+      -2850816
+    ]
+  },
+  "E1F9F6B5-4E78-18CB-C3FC-7E8499C38AAE": {
+    "data": {
+      "seed": 28542
+    },
+    "facing": 795385513,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -999424,
+      622592
+    ]
+  },
+  "E2083600-4B0A-41B8-BBD1-8D8193EDE6B4": {
+    "data": {
+      "seed": 14114
+    },
+    "facing": 1475031058,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2310144,
+      2031616
+    ]
+  },
+  "E288282E-4400-B45E-CCEF-7AB0D6B0DB43": {
+    "data": {
+      "seed": 9868
+    },
+    "facing": 1737690891,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2277376,
+      163840
+    ]
+  },
+  "E33CE846-4632-671A-2B0C-4394C562988E": {
+    "facing": 170611835,
+    "kind": "ShadowCleft",
+    "player": 31,
+    "position": [
+      1015808,
+      1048576
+    ]
+  },
+  "E354E3AB-40B1-6261-280D-B3BB3F92219B": {
+    "facing": 887433703,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -3375104,
+      -2408448
+    ]
+  },
+  "E3FC173A-41C6-DCF3-0BD6-2388263A5B5B": {
+    "data": {
+      "seed": 6470
+    },
+    "facing": 1591426447,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2129920,
+      1949696
+    ]
+  },
+  "E422F10D-4D82-AB2C-4F5A-1CB9189C97B5": {
+    "data": {
+      "seed": 2490
+    },
+    "facing": 607455343,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2752512,
+      -2539520
+    ]
+  },
+  "E43FCDE4-4ADF-32F5-98CF-F386FC6765E0": {
+    "data": {
+      "seed": 11651
+    },
+    "facing": 1835195080,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2555904,
+      -2818048
+    ]
+  },
+  "E49DCCAD-486E-84C9-F348-04BB9F1B63B9": {
+    "facing": 1467477762,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      3325952,
+      917504
+    ]
+  },
+  "E4A45219-459E-E80D-9F8A-67B7FF580588": {
+    "data": {
+      "seed": 1036
+    },
+    "facing": 898902758,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1835008,
+      -360448
+    ]
+  },
+  "E4ACD261-4817-DF82-8344-1695ECC0C363": {
+    "data": {
+      "seed": 20596
+    },
+    "facing": 889727463,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3506176,
+      -1900544
+    ]
+  },
+  "E5D10EF3-49CC-9F61-6124-E9A052464F88": {
+    "facing": 126308092,
+    "kind": "_locationMarkerPlayerStart5",
+    "player": 9,
+    "position": [
+      3325952,
+      -688128
+    ]
+  },
+  "E60F7BE8-40F2-484C-7461-A1A9245283F5": {
+    "data": {
+      "seed": 5121
+    },
+    "facing": 1709362124,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      491520,
+      -2801664
+    ]
+  },
+  "E61EDE49-45F5-8977-7257-889D10D319C5": {
+    "data": {
+      "seed": 11964
+    },
+    "facing": 362375925,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2015232,
+      2277376
+    ]
+  },
+  "E64D251B-43E5-3176-D90F-F398F09FAD0F": {
+    "data": {
+      "seed": 100
+    },
+    "facing": 605849647,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2555904,
+      131072
+    ]
+  },
+  "E6F9C24D-4CC3-A507-FBB6-CCA03663BA38": {
+    "data": {
+      "seed": 21873
+    },
+    "facing": 1163266715,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2113536,
+      2392064
+    ]
+  },
+  "E732252C-4ED3-3103-A5B5-49AA9D3D3985": {
+    "data": {
+      "seed": 9021
+    },
+    "facing": 2053633234,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1720320,
+      -1228800
+    ]
+  },
+  "E7788A2A-4424-FFF2-B1C1-5CB64EDF3631": {
+    "data": {
+      "seed": 19476
+    },
+    "facing": 1005516740,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -442368,
+      1556480
+    ]
+  },
+  "E80B1E12-4AEA-70B9-2A28-97AE787B1208": {
+    "data": {
+      "seed": 17741
+    },
+    "facing": 4079743,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1228800,
+      1720320
+    ]
+  },
+  "E864245E-4ABB-020B-A776-5A92F3459251": {
+    "data": {
+      "seed": 23902
+    },
+    "facing": 843605096,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      344064,
+      -2359296
+    ]
+  },
+  "E9F16756-4F58-BE44-9815-649D6639111C": {
+    "facing": 536870897,
+    "kind": "LesserShrine",
+    "player": 31,
+    "position": [
+      622592,
+      65536
+    ]
+  },
+  "EA1F9107-4DD0-5164-37BD-0DADFF2B775C": {
+    "data": {
+      "seed": 28007
+    },
+    "facing": 1206620122,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2277376,
+      -2424832
+    ]
+  },
+  "EB46055F-48FE-6EFC-B78B-BBA974C8CF8D": {
+    "data": {
+      "seed": 4247
+    },
+    "facing": 1589165455,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2539520,
+      -2752512
+    ]
+  },
+  "EB947EC1-47D5-EC1D-3699-2C8A215B19F6": {
+    "facing": 1151551899,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -3325952,
+      2113536
+    ]
+  },
+  "EB98F325-4B8A-4DDD-66C4-EE9B3B52CCF3": {
+    "data": {
+      "seed": 24726
+    },
+    "facing": 2006413059,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2588672,
+      2785280
+    ]
+  },
+  "EBAC7576-4A99-6E23-80EF-9086BAC94E1A": {
+    "data": {
+      "seed": 11075
+    },
+    "facing": 2067576450,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1982464,
+      -2195456
+    ]
+  },
+  "EBE6C840-412E-F66D-56C3-02ACBDE6CE22": {
+    "data": {
+      "seed": 8944
+    },
+    "facing": 1243993177,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2588672,
+      -131072
+    ]
+  },
+  "EC591459-4A04-D2DC-3038-358B751A14CC": {
+    "facing": 415576436,
+    "kind": "locationMarkerPlayerStart",
+    "player": 4,
+    "position": [
+      -1392640,
+      2097152
+    ]
+  },
+  "EC8A15F7-4C17-2906-D432-CA97D8F6F13A": {
+    "data": {
+      "seed": 12543
+    },
+    "facing": 253845112,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3555328,
+      491520
+    ]
+  },
+  "ED614FC4-4105-22E4-04E5-2298A5FBF6A1": {
+    "data": {
+      "seed": 12001
+    },
+    "facing": 456291955,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1982464,
+      2129920
+    ]
+  },
+  "EDA122EB-4D67-612E-DB7A-4883AB5B5E70": {
+    "data": {
+      "seed": 2876
+    },
+    "facing": 779639984,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1081344,
+      -2555904
+    ]
+  },
+  "EDBFC936-4566-43DC-330F-58A555BB94EE": {
+    "data": {
+      "seed": 1100
+    },
+    "facing": 793075305,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -983040,
+      -2867200
+    ]
+  },
+  "EE827528-4F0A-1184-A8F4-3C901A564AC2": {
+    "data": {
+      "seed": 29834
+    },
+    "facing": 1606762383,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      131072,
+      1392640
+    ]
+  },
+  "EED49E02-4F91-EB4F-F1EB-26A00777D869": {
+    "data": {
+      "seed": 15500
+    },
+    "facing": 1088668125,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2785280,
+      -1966080
+    ]
+  },
+  "EF8C2B8B-4133-354C-8C19-25A8140852E8": {
+    "data": {
+      "seed": 15817
+    },
+    "facing": 1431661203,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2572288,
+      65536
+    ]
+  },
+  "F07A4DF9-4B81-3222-0959-EFBBC15EE324": {
+    "data": {
+      "seed": 7075
+    },
+    "facing": 166974427,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3440640,
+      -393216
+    ]
+  },
+  "F0AE2548-49F7-69BB-C4A6-5B8A6E0DC15D": {
+    "data": {
+      "seed": 21279
+    },
+    "facing": 1396106804,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2441216,
+      1064960
+    ]
+  },
+  "F1461788-4839-69A8-506E-788E3FFB9505": {
+    "data": {
+      "seed": 5462
+    },
+    "facing": 577193199,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2195456,
+      -2031616
+    ]
+  },
+  "F14E3D32-4D4E-6AB6-3F23-CE94086932D6": {
+    "data": {
+      "seed": 22353
+    },
+    "facing": 1684867340,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -3555328,
+      -573440
+    ]
+  },
+  "F1F06C25-45E0-74B9-C808-90AE6A5B7C6C": {
+    "data": {
+      "seed": 3367
+    },
+    "facing": 960180837,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      1261568,
+      -1458176
+    ]
+  },
+  "F1FAD1AE-4943-AB6A-B2E3-CE9F99BF770A": {
+    "facing": 1517516049,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -3244032,
+      2949120
+    ]
+  },
+  "F23F4552-4516-25F1-730A-41A3DA8432B6": {
+    "data": {
+      "seed": 6094
+    },
+    "facing": 1598373519,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2162688,
+      1982464
+    ]
+  },
+  "F278EB40-4AA0-C189-06A7-6792C1148F88": {
+    "facing": 1503441745,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      -1818624,
+      3473408
+    ]
+  },
+  "F3470C0B-40A3-C357-4073-4B9C5F83BBC1": {
+    "data": {
+      "seed": 18841
+    },
+    "facing": 596068079,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2015232,
+      -2768896
+    ]
+  },
+  "F34CEA46-4303-DAD7-77BF-C59D2FEC6521": {
+    "data": {
+      "seed": 30052
+    },
+    "facing": 930361062,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2408448,
+      344064
+    ]
+  },
+  "F3D8F19B-4CD1-253D-9188-AA9067F8F5CA": {
+    "data": {
+      "seed": 16038
+    },
+    "facing": 801283945,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1327104,
+      1753088
+    ]
+  },
+  "F45BCA99-429B-ED5B-5E76-3A8C1C640F72": {
+    "data": {
+      "seed": 21685
+    },
+    "facing": 1226904217,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2129920,
+      1982464
+    ]
+  },
+  "F46F489A-466D-41DB-D728-D1874ED8FC57": {
+    "data": {
+      "seed": 18655
+    },
+    "facing": 165335995,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2818048,
+      -2555904
+    ]
+  },
+  "F4CC0C20-4D60-5FFA-3D46-E2BA972488B9": {
+    "data": {
+      "seed": 18532
+    },
+    "facing": 1655866765,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      3407872,
+      1114112
+    ]
+  },
+  "F4E282BA-48B1-456C-16E6-6D8BFD94B550": {
+    "facing": 1571502992,
+    "kind": "_locationMarkerPlayerStart14",
+    "player": 16,
+    "position": [
+      -688128,
+      -3325952
+    ]
+  },
+  "F5471DDA-4981-A10B-8B82-D694AF4683E5": {
+    "data": {
+      "seed": 15278
+    },
+    "facing": 1719045387,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2277376,
+      -163840
+    ]
+  },
+  "F56A6EAD-4CB8-6819-81F2-6284D6E9EEF3": {
+    "data": {
+      "seed": 9917
+    },
+    "facing": 596133615,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1245184,
+      -1736704
+    ]
+  },
+  "F58D4713-4C57-F0A8-4F28-3A9707656420": {
+    "data": {
+      "seed": 23091
+    },
+    "facing": 1249940760,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -294912,
+      -1933312
+    ]
+  },
+  "F5D67D97-45B5-1082-0F69-648185D438CB": {
+    "data": {
+      "seed": 28844
+    },
+    "facing": 1613283394,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1654784,
+      -1966080
+    ]
+  },
+  "F644A2B7-4C4D-F462-D89D-35946CC234D3": {
+    "data": {
+      "seed": 28844
+    },
+    "facing": 1507390341,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1966080,
+      1654784
+    ]
+  },
+  "F65D85D6-4485-67AE-69F4-A988197DFF9C": {
+    "facing": 1360896597,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      1228800,
+      2015232
+    ]
+  },
+  "F6DE6AD4-4DE5-6520-E9F5-77A0C3E32892": {
+    "facing": 2074376066,
+    "kind": "_locationMarkerPlayerStart16",
+    "player": 17,
+    "position": [
+      -2260992,
+      -3325952
+    ]
+  },
+  "F73807C5-4656-E2CD-4D48-5687A7074D55": {
+    "facing": 224467705,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      -1523712,
+      2097152
+    ]
+  },
+  "F75CC483-48A0-9057-7C0A-B097E3BBFE57": {
+    "data": {
+      "seed": 28795
+    },
+    "facing": 1750126763,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2555904,
+      -3555328
+    ]
+  },
+  "F780EEAD-4D58-DA31-DBAC-72873655A330": {
+    "data": {
+      "seed": 5453
+    },
+    "facing": 1936582373,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      1966080,
+      -2883584
+    ]
+  },
+  "F7810238-40F0-4BC8-0AAB-3297E9834452": {
+    "facing": 212081018,
+    "kind": "locationMarkerPlayerStart",
+    "player": 6,
+    "position": [
+      -65536,
+      1736704
+    ]
+  },
+  "F7A85881-4752-BCE7-43FD-39899BAED3B8": {
+    "data": {
+      "seed": 1519
+    },
+    "facing": 1007482875,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2195456,
+      2473984
+    ]
+  },
+  "F942100A-4BB0-8141-DDFB-068E8FC1BFA8": {
+    "data": {
+      "seed": 28708
+    },
+    "facing": 101927933,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      1900544,
+      2162688
+    ]
+  },
+  "F949A153-45BB-4555-7B76-E3AC80A7EDAB": {
+    "data": {
+      "seed": 12787
+    },
+    "facing": 906898406,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2555904,
+      -294912
+    ]
+  },
+  "F96D36D2-44A6-4E87-F485-B091ACC0BFFF": {
+    "data": {
+      "seed": 13781
+    },
+    "facing": 429880052,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2392064,
+      2146304
+    ]
+  },
+  "FB64A005-4683-32D9-14E4-87BE2E624FE7": {
+    "data": {
+      "seed": 8962
+    },
+    "facing": 1866702471,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2768896,
+      2015232
+    ]
+  },
+  "FBE059A3-4882-ABE3-D8BA-DBB5C7BDC3C8": {
+    "data": {
+      "seed": 19630
+    },
+    "facing": 1209438298,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      16384,
+      -2539520
+    ]
+  },
+  "FBFFEE7E-465F-37B3-1ADD-CD8FF06D76C5": {
+    "data": {
+      "seed": 2479
+    },
+    "facing": 1591639439,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2834432,
+      -950272
+    ]
+  },
+  "FC0A5275-49F9-74C8-7F08-05A57DAF0FFE": {
+    "data": {
+      "seed": 9908
+    },
+    "facing": 604964847,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      1179648,
+      -1458176
+    ]
+  },
+  "FC72A76E-41A1-6DE1-BEA1-DDB3F16040A7": {
+    "data": {
+      "seed": 1514
+    },
+    "facing": 880109799,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2129920,
+      -1982464
+    ]
+  },
+  "FCB04592-45B6-D56B-58D7-CDA59348720C": {
+    "data": {
+      "seed": 15645
+    },
+    "facing": 1347936454,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2441216,
+      2162688
+    ]
+  },
+  "FCBC978D-432C-8AF3-1B55-2FB8806D97A1": {
+    "data": {
+      "seed": 9839
+    },
+    "facing": 362277669,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2850816,
+      1933312
+    ]
+  },
+  "FD21832F-402A-E212-F1F6-CE8CF312CAA4": {
+    "data": {
+      "seed": 15694
+    },
+    "facing": 1809602441,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      49152,
+      2228224
+    ]
+  },
+  "FD8AA5ED-4DB2-D1B6-E2F8-0CA985C292EC": {
+    "data": {
+      "seed": 13633
+    },
+    "facing": 591021679,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -360448,
+      -1835008
+    ]
+  },
+  "FDC21D70-4EE4-198F-3E4E-C8BD43A4A50B": {
+    "data": {
+      "seed": 9107
+    },
+    "facing": 2118646928,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      393216,
+      -1458176
+    ]
+  },
+  "FDEA84E8-4093-3DEC-946B-85BE8144C4CC": {
+    "facing": 1107084316,
+    "kind": "ResourceB_Generator",
+    "player": 1,
+    "position": [
+      1736704,
+      196608
+    ]
+  },
+  "FE13E798-4D44-75A4-9748-8392D18FA6AD": {
+    "data": {
+      "seed": 8732
+    },
+    "facing": 1055374754,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -1867776,
+      327680
+    ]
+  },
+  "FE7EC75D-4D04-B529-A6CE-0A89BC9BB683": {
+    "data": {
+      "seed": 30563
+    },
+    "facing": 1298242263,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      -2195456,
+      -2392064
+    ]
+  },
+  "FF191994-4694-4E00-4216-18A498327E2F": {
+    "facing": 853599656,
+    "kind": "MegaResourceA",
+    "player": 2,
+    "position": [
+      1392640,
+      -1949696
+    ]
+  },
+  "FF789433-4669-1158-525D-F6AABC228450": {
+    "data": {
+      "seed": 15278
+    },
+    "facing": 1182174490,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      65536,
+      -2244608
+    ]
+  },
+  "FFA8B188-4037-5603-FF99-9990F2274C15": {
+    "data": {
+      "seed": 26836
+    },
+    "facing": 249814427,
+    "kind": "DestructiblePalmTree",
+    "player": 31,
+    "position": [
+      2523136,
+      -1114112
+    ]
+  },
+  "FFB1A948-4DDB-C9BE-17E3-A9A3FD2D13B8": {
+    "data": {
+      "seed": 24880
+    },
+    "facing": 898968294,
+    "kind": "DestructibleDeadLightTree",
+    "player": 31,
+    "position": [
+      -1933312,
+      -2310144
+    ]
+  },
+  "version": 1
+}

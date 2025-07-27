@@ -1,0 +1,124 @@
+﻿{
+  "map": {
+    "_locationMarkerPlayerStart0": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart0",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart1": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart1",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart10": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart10",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart11": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart11",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart12": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart12",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart13": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart13",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart14": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart14",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart15": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart15",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart16": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart16",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart17": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart17",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart18": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart18",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart19": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart19",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart2": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart2",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart20": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart20",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart21": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart21",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart22": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart22",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart23": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart23",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart3": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart3",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart4": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart4",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart5": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart5",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart6": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart6",
+      "player_start_group_id": 2
+    },
+    "_locationMarkerPlayerStart7": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart7",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart8": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart8",
+      "player_start_group_id": 0
+    },
+    "_locationMarkerPlayerStart9": {
+      "based_on": "locationMarkerPlayerStart",
+      "id": "_locationMarkerPlayerStart9",
+      "player_start_group_id": 0
+    }
+  }
+}

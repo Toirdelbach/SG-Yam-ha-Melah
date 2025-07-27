@@ -1,0 +1,19 @@
+﻿{
+  "__base_type": "TerrainTileset",
+  "based_on": "TerrainTileset_ForestAutumn",
+  "cliff_set_a": "DA_Cliffset_Rand_A",
+  "cliff_set_b": "DA_CliffSet_Sigma1",
+  "display_name": "",
+  "doodad_aggregate_layer": "Sand",
+  "id": "TerrainTileset_YamhaMelah",
+  "layer_1": "TerrainLayer_Arctic_01",
+  "layer_2": "TerrainLayer_Deadlands_SandDunes",
+  "layer_3": "TerrainLayer_Deadlands_RedSand",
+  "layer_4": "TerrainLayer_Deadlands_PorousRocks",
+  "layer_5": "TerrainLayer_ForestAutumn_Sand",
+  "layer_6": "TerrainLayer_Deadlands_TemplarTilesLarge",
+  "layer_7": "TerrainLayer_ForestAutumn_GrassGround",
+  "layer_8": "TerrainLayer_ForestAutumn_Mud",
+  "render_abyss": false,
+  "water_table": "DA_WaterTable_ForestAutumn"
+}
